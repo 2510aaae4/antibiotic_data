@@ -1,0 +1,2093 @@
+bacteria,anti,dst,year,total_count
+Acinetobacter baumannii complex,PIP,48,2021下半年,332
+Acinetobacter baumannii complex,TZP,59,2021下半年,332
+Acinetobacter baumannii complex,SAM,71,2021下半年,332
+Acinetobacter baumannii complex,AN,66,2021下半年,332
+Acinetobacter baumannii complex,LVX,,2021下半年,332
+Acinetobacter baumannii complex,CIP,59,2021下半年,332
+Acinetobacter baumannii complex,IPM,65,2021下半年,332
+Acinetobacter baumannii complex,CAZ,61,2021下半年,332
+Acinetobacter baumannii complex,MEM,65,2021下半年,332
+Acinetobacter baumannii complex,FEP,67,2021下半年,332
+Acinetobacter baumannii complex,SXT,60,2021下半年,332
+Acinetobacter baumannii,PIP,42,2021下半年,240
+Acinetobacter baumannii,TZP,48,2021下半年,240
+Acinetobacter baumannii,SAM,62,2021下半年,240
+Acinetobacter baumannii,AN,57,2021下半年,240
+Acinetobacter baumannii,LVX,,2021下半年,240
+Acinetobacter baumannii,CIP,48,2021下半年,240
+Acinetobacter baumannii,IPM,54,2021下半年,240
+Acinetobacter baumannii,CAZ,50,2021下半年,240
+Acinetobacter baumannii,MEM,54,2021下半年,240
+Acinetobacter baumannii,FEP,57,2021下半年,240
+Acinetobacter baumannii,SXT,51,2021下半年,240
+Acinetobacter calcoaceticus,PIP,100,2021下半年,3
+Acinetobacter calcoaceticus,TZP,100,2021下半年,3
+Acinetobacter calcoaceticus,SAM,100,2021下半年,3
+Acinetobacter calcoaceticus,AN,100,2021下半年,3
+Acinetobacter calcoaceticus,LVX,,2021下半年,3
+Acinetobacter calcoaceticus,CIP,100,2021下半年,3
+Acinetobacter calcoaceticus,IPM,100,2021下半年,3
+Acinetobacter calcoaceticus,CAZ,100,2021下半年,3
+Acinetobacter calcoaceticus,MEM,100,2021下半年,3
+Acinetobacter calcoaceticus,FEP,100,2021下半年,3
+Acinetobacter calcoaceticus,SXT,100,2021下半年,3
+Acinetobacter nosocomialis,PIP,78,2021下半年,29
+Acinetobacter nosocomialis,TZP,79,2021下半年,29
+Acinetobacter nosocomialis,SAM,86,2021下半年,29
+Acinetobacter nosocomialis,AN,96,2021下半年,29
+Acinetobacter nosocomialis,LVX,,2021下半年,29
+Acinetobacter nosocomialis,CIP,83,2021下半年,29
+Acinetobacter nosocomialis,IPM,83,2021下半年,29
+Acinetobacter nosocomialis,CAZ,90,2021下半年,29
+Acinetobacter nosocomialis,MEM,83,2021下半年,29
+Acinetobacter nosocomialis,FEP,83,2021下半年,29
+Acinetobacter nosocomialis,SXT,76,2021下半年,29
+Acinetobacter pittii,PIP,60,2021下半年,60
+Acinetobacter pittii,TZP,61,2021下半年,60
+Acinetobacter pittii,SAM,93,2021下半年,60
+Acinetobacter pittii,AN,100,2021下半年,60
+Acinetobacter pittii,LVX,95,2021下半年,60
+Acinetobacter pittii,CIP,,2021下半年,60
+Acinetobacter pittii,IPM,93,2021下半年,60
+Acinetobacter pittii,CAZ,97,2021下半年,60
+Acinetobacter pittii,MEM,86,2021下半年,60
+Acinetobacter pittii,FEP,97,2021下半年,60
+Acinetobacter pittii,SXT,97,2021下半年,60
+Acinetobacter species,PIP,88,2021下半年,153
+Acinetobacter species,TZP,56,2021下半年,153
+Acinetobacter species,SAM,41,2021下半年,153
+Acinetobacter species,AN,93,2021下半年,153
+Acinetobacter species,LVX,51,2021下半年,153
+Acinetobacter species,CIP,,2021下半年,153
+Acinetobacter species,IPM,78,2021下半年,153
+Acinetobacter species,CAZ,61,2021下半年,153
+Acinetobacter species,MEM,49,2021下半年,153
+Acinetobacter species,FEP,87,2021下半年,153
+Acinetobacter species,SXT,89,2021下半年,153
+Burkholderia cepacia complex,PIP,54,2021下半年,30
+Burkholderia cepacia complex,TZP,,2021下半年,30
+Burkholderia cepacia complex,SAM,,2021下半年,30
+Burkholderia cepacia complex,AN,,2021下半年,30
+Burkholderia cepacia complex,LVX,,2021下半年,30
+Burkholderia cepacia complex,CIP,,2021下半年,30
+Burkholderia cepacia complex,IPM,,2021下半年,30
+Burkholderia cepacia complex,CAZ,100,2021下半年,30
+Burkholderia cepacia complex,MEM,97,2021下半年,30
+Burkholderia cepacia complex,FEP,,2021下半年,30
+Burkholderia cepacia complex,SXT,97,2021下半年,30
+Stenotrophomonas maltophilia,PIP,,2021下半年,274
+Stenotrophomonas maltophilia,TZP,,2021下半年,274
+Stenotrophomonas maltophilia,SAM,,2021下半年,274
+Stenotrophomonas maltophilia,AN,,2021下半年,274
+Stenotrophomonas maltophilia,LVX,90,2021下半年,274
+Stenotrophomonas maltophilia,CIP,,2021下半年,274
+Stenotrophomonas maltophilia,IPM,,2021下半年,274
+Stenotrophomonas maltophilia,CAZ,,2021下半年,274
+Stenotrophomonas maltophilia,MEM,,2021下半年,274
+Stenotrophomonas maltophilia,FEP,,2021下半年,274
+Stenotrophomonas maltophilia,SXT,87,2021下半年,274
+Pseudomonas aeruginosa,PIP,90,2021下半年,828
+Pseudomonas aeruginosa,TZP,93,2021下半年,828
+Pseudomonas aeruginosa,GN,95,2021下半年,828
+Pseudomonas aeruginosa,AN,99.5,2021下半年,828
+Pseudomonas aeruginosa,LVX,85,2021下半年,828
+Pseudomonas aeruginosa,CIP,89,2021下半年,828
+Pseudomonas aeruginosa,IPM,92,2021下半年,828
+Pseudomonas aeruginosa,CAZ,94,2021下半年,828
+Pseudomonas aeruginosa,MEM,93,2021下半年,828
+Pseudomonas aeruginosa,FEP,98,2021下半年,828
+Citrobacter species,SAM,69,2021下半年,198
+Enterobacter cloacae complex,SAM,0,2021下半年,298
+Escherichia coli,SAM,71,2021下半年,2294
+Klebsiella pneumoniae,SAM,56,2021下半年,1193
+Klebsiella aerogenes,SAM,0,2021下半年,81
+Klebsiella oxytoca,SAM,80,2021下半年,46
+Morganella morganii,SAM,21,2021下半年,126
+Proteus mirabilis,SAM,81,2021下半年,258
+Proteus species,SAM,91,2021下半年,35
+Providencia species,SAM,35,2021下半年,41
+Serratia marcescens,SAM,0,2021下半年,88
+Citrobacter species,GN,87,2021下半年,198
+Enterobacter cloacae complex,GN,86,2021下半年,298
+Escherichia coli,GN,80,2021下半年,2294
+Klebsiella pneumoniae,GN,73,2021下半年,1193
+Klebsiella aerogenes,GN,98,2021下半年,81
+Klebsiella oxytoca,GN,87,2021下半年,46
+Morganella morganii,GN,78,2021下半年,126
+Proteus mirabilis,GN,80,2021下半年,258
+Proteus species,GN,100,2021下半年,35
+Providencia species,GN,27,2021下半年,41
+Serratia marcescens,GN,74,2021下半年,88
+Citrobacter species,Etp,97,2021下半年,198
+Enterobacter cloacae complex,Etp,90,2021下半年,298
+Escherichia coli,Etp,99.6,2021下半年,2294
+Klebsiella pneumoniae,Etp,92,2021下半年,1193
+Klebsiella aerogenes,Etp,100,2021下半年,81
+Klebsiella oxytoca,Etp,100,2021下半年,46
+Morganella morganii,Etp,100,2021下半年,126
+Proteus mirabilis,Etp,99.6,2021下半年,258
+Proteus species,Etp,100,2021下半年,35
+Providencia species,Etp,98,2021下半年,41
+Serratia marcescens,Etp,91,2021下半年,88
+Citrobacter species,CZ,64,2021下半年,198
+Enterobacter cloacae complex,CZ,0,2021下半年,298
+Escherichia coli,CZ,57,2021下半年,2294
+Klebsiella pneumoniae,CZ,54,2021下半年,1193
+Klebsiella aerogenes,CZ,0,2021下半年,81
+Klebsiella oxytoca,CZ,11,2021下半年,46
+Morganella morganii,CZ,0,2021下半年,126
+Proteus mirabilis,CZ,53,2021下半年,258
+Proteus species,CZ,0,2021下半年,35
+Providencia species,CZ,0,2021下半年,41
+Serratia marcescens,CZ,0,2021下半年,88
+Citrobacter species,FOX,67,2021下半年,198
+Enterobacter cloacae complex,FOX,0,2021下半年,298
+Escherichia coli,FOX,84,2021下半年,2294
+Klebsiella pneumoniae,FOX,70,2021下半年,1193
+Klebsiella aerogenes,FOX,0,2021下半年,81
+Klebsiella oxytoca,FOX,97,2021下半年,46
+Morganella morganii,FOX,50,2021下半年,126
+Proteus mirabilis,FOX,93,2021下半年,258
+Proteus species,FOX,97,2021下半年,35
+Providencia species,FOX,78,2021下半年,41
+Serratia marcescens,FOX,0,2021下半年,88
+Citrobacter species,CXM,67,2021下半年,198
+Enterobacter cloacae complex,CXM,48,2021下半年,298
+Escherichia coli,CXM,68,2021下半年,2294
+Klebsiella pneumoniae,CXM,59,2021下半年,1193
+Klebsiella aerogenes,CXM,60,2021下半年,81
+Klebsiella oxytoca,CXM,85,2021下半年,46
+Morganella morganii,CXM,0,2021下半年,126
+Proteus mirabilis,CXM,88,2021下半年,258
+Proteus species,CXM,0,2021下半年,35
+Providencia species,CXM,73,2021下半年,41
+Serratia marcescens,CXM,0,2021下半年,88
+Citrobacter species,CTX,80,2021下半年,198
+Enterobacter cloacae complex,CTX,61,2021下半年,298
+Escherichia coli,CTX,68,2021下半年,2294
+Klebsiella pneumoniae,CTX,66,2021下半年,1193
+Klebsiella aerogenes,CTX,65,2021下半年,81
+Klebsiella oxytoca,CTX,87,2021下半年,46
+Morganella morganii,CTX,89,2021下半年,126
+Proteus mirabilis,CTX,88,2021下半年,258
+Proteus species,CTX,94,2021下半年,35
+Providencia species,CTX,80,2021下半年,41
+Serratia marcescens,CTX,69,2021下半年,88
+Citrobacter species,FLO,89,2021下半年,198
+Enterobacter cloacae complex,FLO,63,2021下半年,298
+Escherichia coli,FLO,92,2021下半年,2294
+Klebsiella pneumoniae,FLO,83,2021下半年,1193
+Klebsiella aerogenes,FLO,63,2021下半年,81
+Klebsiella oxytoca,FLO,100,2021下半年,46
+Morganella morganii,FLO,95,2021下半年,126
+Proteus mirabilis,FLO,97,2021下半年,258
+Proteus species,FLO,100,2021下半年,35
+Providencia species,FLO,93,2021下半年,41
+Serratia marcescens,FLO,95,2021下半年,88
+Citrobacter species,LVX,91,2021下半年,198
+Enterobacter cloacae complex,LVX,85,2021下半年,298
+Escherichia coli,LVX,64,2021下半年,2294
+Klebsiella pneumoniae,LVX,70,2021下半年,1193
+Klebsiella aerogenes,LVX,98,2021下半年,81
+Klebsiella oxytoca,LVX,89,2021下半年,46
+Morganella morganii,LVX,82,2021下半年,126
+Proteus mirabilis,LVX,79,2021下半年,258
+Proteus species,LVX,100,2021下半年,35
+Providencia species,LVX,60,2021下半年,41
+Serratia marcescens,LVX,80,2021下半年,88
+Citrobacter species,SXT,89,2021下半年,198
+Enterobacter cloacae complex,SXT,76,2021下半年,298
+Escherichia coli,SXT,57,2021下半年,2294
+Klebsiella pneumoniae,SXT,57,2021下半年,1193
+Klebsiella aerogenes,SXT,95,2021下半年,81
+Klebsiella oxytoca,SXT,94,2021下半年,46
+Morganella morganii,SXT,62,2021下半年,126
+Proteus mirabilis,SXT,53,2021下半年,258
+Proteus species,SXT,89,2021下半年,35
+Providencia species,SXT,56,2021下半年,41
+Serratia marcescens,SXT,93,2021下半年,88
+Citrobacter species,CFM,75,2021下半年,198
+Enterobacter cloacae complex,CFM,47,2021下半年,298
+Escherichia coli,CFM,66,2021下半年,2294
+Klebsiella pneumoniae,CFM,55,2021下半年,1193
+Klebsiella aerogenes,CFM,60,2021下半年,81
+Klebsiella oxytoca,CFM,82,2021下半年,46
+Morganella morganii,CFM,77,2021下半年,126
+Proteus mirabilis,CFM,90,2021下半年,258
+Proteus species,CFM,97,2021下半年,35
+Providencia species,CFM,83,2021下半年,41
+Serratia marcescens,CFM,63,2021下半年,88
+Citrobacter species,FEP,92,2021下半年,198
+Enterobacter cloacae complex,FEP,78,2021下半年,298
+Escherichia coli,FEP,84,2021下半年,2294
+Klebsiella pneumoniae,FEP,75,2021下半年,1193
+Klebsiella aerogenes,FEP,98,2021下半年,81
+Klebsiella oxytoca,FEP,87,2021下半年,46
+Morganella morganii,FEP,100,2021下半年,126
+Proteus mirabilis,FEP,95,2021下半年,258
+Proteus species,FEP,100,2021下半年,35
+Providencia species,FEP,95,2021下半年,41
+Serratia marcescens,FEP,90,2021下半年,88
+Salmonella species,AM,69,2021下半年,110
+Salmonella species,Etp,98,2021下半年,110
+Salmonella species,CTX,89,2021下半年,110
+Salmonella species,CRO,94,2021下半年,110
+Salmonella species,CIP,87,2021下半年,110
+Salmonella species,SXT,80,2021下半年,110
+Salmonella species,CFM,85,2021下半年,110
+Salmonella species,MEM,100,2021下半年,110
+Salmonella species,FEP,98,2021下半年,110
+Bacteroides fragilis,P,0,2021下半年,3
+Bacteroides species,P,0,2021下半年,93
+Clostridium difficile,P,21,2021下半年,14
+Clostridium species,P,79,2021下半年,29
+Cutibacterium species,P,100,2021下半年,142
+Fusobacterium species,P,85,2021下半年,47
+Peptostreptococcus species,P,92,2021下半年,142
+Prevotella species,P,20,2021下半年,136
+Veillonella parvula,P,8,2021下半年,40
+Bacteroides fragilis,SAM,66,2021下半年,3
+Bacteroides species,SAM,47,2021下半年,93
+Clostridium difficile,SAM,92,2021下半年,14
+Clostridium species,SAM,100,2021下半年,29
+Cutibacterium species,SAM,100,2021下半年,142
+Fusobacterium species,SAM,94,2021下半年,47
+Peptostreptococcus species,SAM,97,2021下半年,142
+Prevotella species,SAM,100,2021下半年,136
+Veillonella parvula,SAM,93,2021下半年,40
+Bacteroides fragilis,CC,43,2021下半年,3
+Bacteroides species,CC,40,2021下半年,93
+Clostridium difficile,CC,57,2021下半年,14
+Clostridium species,CC,52,2021下半年,29
+Cutibacterium species,CC,90,2021下半年,142
+Fusobacterium species,CC,77,2021下半年,47
+Peptostreptococcus species,CC,67,2021下半年,142
+Prevotella species,CC,56,2021下半年,136
+Veillonella parvula,CC,98,2021下半年,40
+Bacteroides fragilis,FLO,67,2021下半年,3
+Bacteroides species,FLO,42,2021下半年,93
+Clostridium difficile,FLO,77,2021下半年,14
+Clostridium species,FLO,100,2021下半年,29
+Cutibacterium species,FLO,100,2021下半年,142
+Fusobacterium species,FLO,98,2021下半年,47
+Peptostreptococcus species,FLO,99,2021下半年,142
+Prevotella species,FLO,88,2021下半年,136
+Veillonella parvula,FLO,100,2021下半年,40
+Bacteroides fragilis,MET,95,2021下半年,3
+Bacteroides species,MET,99,2021下半年,93
+Clostridium difficile,MET,100,2021下半年,14
+Clostridium species,MET,93,2021下半年,29
+Cutibacterium species,MET,0,2021下半年,142
+Fusobacterium species,MET,100,2021下半年,47
+Peptostreptococcus species,MET,100,2021下半年,142
+Prevotella species,MET,97,2021下半年,136
+Veillonella parvula,MET,98,2021下半年,40
+Aeromonas species,GN,100,2021下半年,57
+Aeromonas species,Etp,84,2021下半年,57
+Aeromonas species,FOX,33,2021下半年,57
+Aeromonas species,CXM,73,2021下半年,57
+Aeromonas species,CRO,72,2021下半年,57
+Aeromonas species,FLO,50,2021下半年,57
+Aeromonas species,LVX,98,2021下半年,57
+Aeromonas species,SXT,91,2021下半年,57
+Aeromonas species,FEP,93,2021下半年,57
+Haemophilus influenzae,AM,48,2021下半年,29
+Haemophilus parainfluenzae,AM,85,2021下半年,13
+Haemophilus influenzae,SAM,86,2021下半年,29
+Haemophilus parainfluenzae,SAM,85,2021下半年,13
+Haemophilus influenzae,AMC,69,2021下半年,29
+Haemophilus parainfluenzae,AMC,85,2021下半年,13
+Haemophilus influenzae,CXM,93,2021下半年,29
+Haemophilus parainfluenzae,CXM,92,2021下半年,13
+Haemophilus influenzae,CTX,100,2021下半年,29
+Haemophilus parainfluenzae,CTX,100,2021下半年,13
+Haemophilus influenzae,CRO,100,2021下半年,29
+Haemophilus parainfluenzae,CRO,100,2021下半年,13
+Haemophilus influenzae,LVX,43,2021下半年,29
+Haemophilus parainfluenzae,LVX,92,2021下半年,13
+Haemophilus influenzae,CFM,100,2021下半年,29
+Haemophilus parainfluenzae,CFM,100,2021下半年,13
+Haemophilus influenzae,MxF,45,2021下半年,29
+Haemophilus parainfluenzae,MxF,77,2021下半年,13
+Neisseria gonorrhoeae,P,10,2021下半年,10
+Neisseria gonorrhoeae,CTX,100,2021下半年,10
+Neisseria gonorrhoeae,CRO,100,2021下半年,10
+Neisseria gonorrhoeae,CIP,0,2021下半年,10
+Neisseria gonorrhoeae,CFM,100,2021下半年,10
+Neisseria gonorrhoeae,FEP,100,2021下半年,10
+Coagulase(-)Staphylococcus,OX,47,2021下半年,509
+Staphylococcus aureus,OX,62,2021下半年,734
+ORSA,OX,,2021下半年,327
+OSSA,OX,100,2021下半年,516
+Coagulase(-)Staphylococcus,CC,64,2021下半年,509
+Staphylococcus aureus,CC,77,2021下半年,734
+ORSA,CC,55,2021下半年,327
+OSSA,CC,91,2021下半年,516
+Coagulase(-)Staphylococcus,E,50,2021下半年,509
+Staphylococcus aureus,E,50,2021下半年,734
+ORSA,E,27,2021下半年,327
+OSSA,E,64,2021下半年,516
+Coagulase(-)Staphylococcus,GN,64,2021下半年,509
+Staphylococcus aureus,GN,77,2021下半年,734
+ORSA,GN,65,2021下半年,327
+OSSA,GN,84,2021下半年,516
+Coagulase(-)Staphylococcus,SXT,70,2021下半年,509
+Staphylococcus aureus,SXT,95,2021下半年,734
+ORSA,SXT,89,2021下半年,327
+OSSA,SXT,99,2021下半年,516
+Coagulase(-)Staphylococcus,RA,91,2021下半年,509
+Staphylococcus aureus,RA,99.7,2021下半年,734
+ORSA,RA,99.7,2021下半年,327
+OSSA,RA,98,2021下半年,516
+Coagulase(-)Staphylococcus,FA,71,2021下半年,509
+Staphylococcus aureus,FA,92,2021下半年,734
+ORSA,FA,92,2021下半年,327
+OSSA,FA,92,2021下半年,516
+Coagulase(-)Staphylococcus,LZD,100,2021下半年,509
+Staphylococcus aureus,LZD,100,2021下半年,734
+ORSA,LZD,100,2021下半年,327
+OSSA,LZD,100,2021下半年,516
+Enterococcus faeclais,P,99,2021下半年,509
+Enterococcus faecium,P,8,2021下半年,834
+Enterococcus gallinarum/Enterococcus casseliflavus,P,81,2021下半年,327
+Enterococcus species,P,62,2021下半年,516
+Enterococcus faeclais,VA,100,2021下半年,509
+Enterococcus faecium,VA,46,2021下半年,834
+Enterococcus gallinarum/Enterococcus casseliflavus,VA,0,2021下半年,327
+Enterococcus species,VA,100,2021下半年,516
+Enterococcus faeclais,AM,100,2021下半年,509
+Enterococcus faecium,AM,10,2021下半年,834
+Enterococcus gallinarum/Enterococcus casseliflavus,AM,93,2021下半年,327
+Enterococcus species,AM,65,2021下半年,516
+Enterococcus faeclais,E,16,2021下半年,509
+Enterococcus faecium,E,6,2021下半年,834
+Enterococcus gallinarum/Enterococcus casseliflavus,E,46,2021下半年,327
+Enterococcus species,E,51,2021下半年,516
+Enterococcus faeclais,GN,67,2021下半年,509
+Enterococcus faecium,GN,84,2021下半年,834
+Enterococcus gallinarum/Enterococcus casseliflavus,GN,81,2021下半年,327
+Enterococcus species,GN,87,2021下半年,516
+Enterococcus faeclais,TEC,100,2021下半年,509
+Enterococcus faecium,TEC,45,2021下半年,834
+Enterococcus gallinarum/Enterococcus casseliflavus,TEC,97,2021下半年,327
+Enterococcus species,TEC,100,2021下半年,516
+Enterococcus faeclais,S,78,2021下半年,509
+Enterococcus faecium,S,70,2021下半年,834
+Enterococcus gallinarum/Enterococcus casseliflavus,S,78,2021下半年,327
+Enterococcus species,S,86,2021下半年,516
+Enterococcus faeclais,LZD,100,2021下半年,509
+Enterococcus faecium,LZD,100,2021下半年,834
+Enterococcus gallinarum/Enterococcus casseliflavus,LZD,100,2021下半年,327
+Enterococcus species,LZD,100,2021下半年,516
+β-hemolytic streptococci,P,100,2021下半年,364
+Streptococcus pneumoniae,P,100,2021下半年,9
+Streptococcus species,P,,2021下半年,448
+β-hemolytic streptococci,VA,100,2021下半年,364
+Streptococcus pneumoniae,VA,100,2021下半年,9
+Streptococcus species,VA,100,2021下半年,448
+β-hemolytic streptococci,AM,100,2021下半年,364
+Streptococcus pneumoniae,AM,,2021下半年,9
+Streptococcus species,AM,,2021下半年,448
+β-hemolytic streptococci,CC,65,2021下半年,364
+Streptococcus pneumoniae,CC,13,2021下半年,9
+Streptococcus species,CC,75,2021下半年,448
+β-hemolytic streptococci,E,65,2021下半年,364
+Streptococcus pneumoniae,E,0,2021下半年,9
+Streptococcus species,E,66,2021下半年,448
+β-hemolytic streptococci,CZ,100,2021下半年,364
+Streptococcus pneumoniae,CZ,,2021下半年,9
+Streptococcus species,CZ,,2021下半年,448
+β-hemolytic streptococci,CTX,100,2021下半年,364
+Streptococcus pneumoniae,CTX,,2021下半年,9
+Streptococcus species,CTX,95,2021下半年,448
+β-hemolytic streptococci,CRO,100,2021下半年,364
+Streptococcus pneumoniae,CRO,,2021下半年,9
+Streptococcus species,CRO,95,2021下半年,448
+β-hemolytic streptococci,LVX,93,2021下半年,364
+Streptococcus pneumoniae,LVX,100,2021下半年,9
+Streptococcus species,LVX,89,2021下半年,448
+β-hemolytic streptococci,SXT,,2021下半年,364
+Streptococcus pneumoniae,SXT,44,2021下半年,9
+Streptococcus species,SXT,,2021下半年,448
+β-hemolytic streptococci,FEP,100,2021下半年,364
+Streptococcus pneumoniae,FEP,,2021下半年,9
+Streptococcus species,FEP,96,2021下半年,448
+β-hemolytic streptococci,MxF,,2021下半年,364
+Streptococcus pneumoniae,MxF,100,2021下半年,9
+Streptococcus species,MxF,,2021下半年,448
+Acinetobacter baumannii complex,SAM,67,2021上半年,236
+Acinetobacter baumannii complex,PIP,43,2021上半年,236
+Acinetobacter baumannii complex,TZP,54,2021上半年,236
+Acinetobacter baumannii complex,AN,59,2021上半年,236
+Acinetobacter baumannii complex,LVX,,2021上半年,236
+Acinetobacter baumannii complex,CIP,54,2021上半年,236
+Acinetobacter baumannii complex,IPM,57,2021上半年,236
+Acinetobacter baumannii complex,CAZ,58,2021上半年,236
+Acinetobacter baumannii complex,SXT,51,2021上半年,236
+Acinetobacter baumannii complex,MEM,57,2021上半年,236
+Acinetobacter baumannii complex,FEP,58,2021上半年,236
+Acinetobacter baumannii,SAM,52,2021上半年,159
+Acinetobacter baumannii,PIP,36,2021上半年,159
+Acinetobacter baumannii,TZP,40,2021上半年,159
+Acinetobacter baumannii,AN,44,2021上半年,159
+Acinetobacter baumannii,LVX,,2021上半年,159
+Acinetobacter baumannii,CIP,40,2021上半年,159
+Acinetobacter baumannii,IPM,43,2021上半年,159
+Acinetobacter baumannii,CAZ,41,2021上半年,159
+Acinetobacter baumannii,SXT,38,2021上半年,159
+Acinetobacter baumannii,MEM,42,2021上半年,159
+Acinetobacter baumannii,FEP,42,2021上半年,159
+Acinetobacter calcoaceticus,SAM,100,2021上半年,1
+Acinetobacter calcoaceticus,PIP,0,2021上半年,1
+Acinetobacter calcoaceticus,TZP,0,2021上半年,1
+Acinetobacter calcoaceticus,AN,100,2021上半年,1
+Acinetobacter calcoaceticus,LVX,,2021上半年,1
+Acinetobacter calcoaceticus,CIP,0,2021上半年,1
+Acinetobacter calcoaceticus,IPM,0,2021上半年,1
+Acinetobacter calcoaceticus,CAZ,100,2021上半年,1
+Acinetobacter calcoaceticus,SXT,0,2021上半年,1
+Acinetobacter calcoaceticus,MEM,0,2021上半年,1
+Acinetobacter calcoaceticus,FEP,100,2021上半年,1
+Acinetobacter nosocomialis,SAM,90,2021上半年,31
+Acinetobacter nosocomialis,PIP,69,2021上半年,31
+Acinetobacter nosocomialis,TZP,81,2021上半年,31
+Acinetobacter nosocomialis,AN,82,2021上半年,31
+Acinetobacter nosocomialis,LVX,,2021上半年,31
+Acinetobacter nosocomialis,CIP,84,2021上半年,31
+Acinetobacter nosocomialis,IPM,81,2021上半年,31
+Acinetobacter nosocomialis,CAZ,94,2021上半年,31
+Acinetobacter nosocomialis,SXT,77,2021上半年,31
+Acinetobacter nosocomialis,MEM,84,2021上半年,31
+Acinetobacter nosocomialis,FEP,87,2021上半年,31
+Acinetobacter pittii,SAM,100,2021上半年,45
+Acinetobacter pittii,PIP,55,2021上半年,45
+Acinetobacter pittii,TZP,87,2021上半年,45
+Acinetobacter pittii,AN,98,2021上半年,45
+Acinetobacter pittii,LVX,,2021上半年,45
+Acinetobacter pittii,CIP,84,2021上半年,45
+Acinetobacter pittii,IPM,91,2021上半年,45
+Acinetobacter pittii,CAZ,91,2021上半年,45
+Acinetobacter pittii,SXT,82,2021上半年,45
+Acinetobacter pittii,MEM,91,2021上半年,45
+Acinetobacter pittii,FEP,96,2021上半年,45
+Acinetobacter species,SAM,89,2021上半年,181
+Acinetobacter species,PIP,48,2021上半年,181
+Acinetobacter species,TZP,56,2021上半年,181
+Acinetobacter species,AN,85,2021上半年,181
+Acinetobacter species,LVX,,2021上半年,181
+Acinetobacter species,CIP,62,2021上半年,181
+Acinetobacter species,IPM,61,2021上半年,181
+Acinetobacter species,CAZ,64,2021上半年,181
+Acinetobacter species,SXT,49,2021上半年,181
+Acinetobacter species,MEM,60,2021上半年,181
+Acinetobacter species,FEP,79,2021上半年,181
+Burkholderia cepacia complex,SAM,,2021上半年,24
+Burkholderia cepacia complex,PIP,,2021上半年,24
+Burkholderia cepacia complex,TZP,,2021上半年,24
+Burkholderia cepacia complex,AN,,2021上半年,24
+Burkholderia cepacia complex,LVX,,2021上半年,24
+Burkholderia cepacia complex,CIP,,2021上半年,24
+Burkholderia cepacia complex,IPM,,2021上半年,24
+Burkholderia cepacia complex,CAZ,92,2021上半年,24
+Burkholderia cepacia complex,SXT,100,2021上半年,24
+Burkholderia cepacia complex,MEM,87,2021上半年,24
+Burkholderia cepacia complex,FEP,,2021上半年,24
+Stenotrophomonas maltophilia,SAM,,2021上半年,273
+Stenotrophomonas maltophilia,PIP,,2021上半年,273
+Stenotrophomonas maltophilia,TZP,,2021上半年,273
+Stenotrophomonas maltophilia,AN,,2021上半年,273
+Stenotrophomonas maltophilia,LVX,94,2021上半年,273
+Stenotrophomonas maltophilia,CIP,,2021上半年,273
+Stenotrophomonas maltophilia,IPM,,2021上半年,273
+Stenotrophomonas maltophilia,CAZ,,2021上半年,273
+Stenotrophomonas maltophilia,SXT,92,2021上半年,273
+Stenotrophomonas maltophilia,MEM,,2021上半年,273
+Stenotrophomonas maltophilia,FEP,,2021上半年,273
+Pseudomonas aeruginosa,PIP,87,2021上半年,728
+Pseudomonas aeruginosa,TZP,89,2021上半年,728
+Pseudomonas aeruginosa,GN,93,2021上半年,728
+Pseudomonas aeruginosa,AN,99,2021上半年,728
+Pseudomonas aeruginosa,LVX,83,2021上半年,728
+Pseudomonas aeruginosa,CIP,86,2021上半年,728
+Pseudomonas aeruginosa,IPM,92,2021上半年,728
+Pseudomonas aeruginosa,CAZ,93,2021上半年,728
+Pseudomonas aeruginosa,MEM,93,2021上半年,728
+Pseudomonas aeruginosa,FEP,97,2021上半年,728
+Aeromonas species,SAM,,2021上半年,41
+Citrobacter species,SAM,69,2021上半年,229
+Enterobacter cloacae complex,SAM,0,2021上半年,269
+Escherichia coli,SAM,72,2021上半年,2073
+Klebsiella pneumoniae,SAM,59,2021上半年,1089
+Klebsiella aerogenes,SAM,0,2021上半年,68
+Klebsiella oxytoca,SAM,62,2021上半年,55
+Morganella morganii,SAM,26,2021上半年,116
+Proteus mirabilis,SAM,79,2021上半年,237
+Proteus species,SAM,90,2021上半年,31
+Providencia species,SAM,35,2021上半年,37
+Serratia marcescens,SAM,0,2021上半年,123
+Aeromonas species,GN,95,2021上半年,41
+Citrobacter species,GN,92,2021上半年,229
+Enterobacter cloacae complex,GN,82,2021上半年,269
+Escherichia coli,GN,80,2021上半年,2073
+Klebsiella pneumoniae,GN,70,2021上半年,1089
+Klebsiella aerogenes,GN,94,2021上半年,68
+Klebsiella oxytoca,GN,78,2021上半年,55
+Morganella morganii,GN,81,2021上半年,116
+Proteus mirabilis,GN,74,2021上半年,237
+Proteus species,GN,100,2021上半年,31
+Providencia species,GN,41,2021上半年,37
+Serratia marcescens,GN,86,2021上半年,123
+Aeromonas species,Etp,85,2021上半年,41
+Citrobacter species,Etp,99,2021上半年,229
+Enterobacter cloacae complex,Etp,91,2021上半年,269
+Escherichia coli,Etp,99,2021上半年,2073
+Klebsiella pneumoniae,Etp,93,2021上半年,1089
+Klebsiella aerogenes,Etp,96,2021上半年,68
+Klebsiella oxytoca,Etp,100,2021上半年,55
+Morganella morganii,Etp,100,2021上半年,116
+Proteus mirabilis,Etp,99.6,2021上半年,237
+Proteus species,Etp,100,2021上半年,31
+Providencia species,Etp,95,2021上半年,37
+Serratia marcescens,Etp,96,2021上半年,123
+Aeromonas species,CZ,,2021上半年,41
+Citrobacter species,CZ,55,2021上半年,229
+Enterobacter cloacae complex,CZ,0,2021上半年,269
+Escherichia coli,CZ,56,2021上半年,2073
+Klebsiella pneumoniae,CZ,57,2021上半年,1089
+Klebsiella aerogenes,CZ,0,2021上半年,68
+Klebsiella oxytoca,CZ,17,2021上半年,55
+Morganella morganii,CZ,0,2021上半年,116
+Proteus mirabilis,CZ,46,2021上半年,237
+Proteus species,CZ,0,2021上半年,31
+Providencia species,CZ,0,2021上半年,37
+Serratia marcescens,CZ,0,2021上半年,123
+Aeromonas species,FOX,44,2021上半年,41
+Citrobacter species,FOX,62,2021上半年,229
+Enterobacter cloacae complex,FOX,0,2021上半年,269
+Escherichia coli,FOX,86,2021上半年,2073
+Klebsiella pneumoniae,FOX,71,2021上半年,1089
+Klebsiella aerogenes,FOX,0,2021上半年,68
+Klebsiella oxytoca,FOX,87,2021上半年,55
+Morganella morganii,FOX,47,2021上半年,116
+Proteus mirabilis,FOX,91,2021上半年,237
+Proteus species,FOX,100,2021上半年,31
+Providencia species,FOX,83,2021上半年,37
+Serratia marcescens,FOX,0,2021上半年,123
+Aeromonas species,CXM,76,2021上半年,41
+Citrobacter species,CXM,68,2021上半年,229
+Enterobacter cloacae complex,CXM,48,2021上半年,269
+Escherichia coli,CXM,69,2021上半年,2073
+Klebsiella pneumoniae,CXM,60,2021上半年,1089
+Klebsiella aerogenes,CXM,64,2021上半年,68
+Klebsiella oxytoca,CXM,67,2021上半年,55
+Morganella morganii,CXM,0,2021上半年,116
+Proteus mirabilis,CXM,82,2021上半年,237
+Proteus species,CXM,0,2021上半年,31
+Providencia species,CXM,78,2021上半年,37
+Serratia marcescens,CXM,0,2021上半年,123
+Aeromonas species,CRO,78,2021上半年,41
+Citrobacter species,CRO,83,2021上半年,229
+Enterobacter cloacae complex,CRO,55,2021上半年,269
+Escherichia coli,CRO,70,2021上半年,2073
+Klebsiella pneumoniae,CRO,70,2021上半年,1089
+Klebsiella aerogenes,CRO,75,2021上半年,68
+Klebsiella oxytoca,CRO,67,2021上半年,55
+Morganella morganii,CRO,96,2021上半年,116
+Proteus mirabilis,CRO,90,2021上半年,237
+Proteus species,CRO,100,2021上半年,31
+Providencia species,CRO,81,2021上半年,37
+Serratia marcescens,CRO,80,2021上半年,123
+Aeromonas species,FLO,36,2021上半年,41
+Citrobacter species,FLO,88,2021上半年,229
+Enterobacter cloacae complex,FLO,67,2021上半年,269
+Escherichia coli,FLO,93,2021上半年,2073
+Klebsiella pneumoniae,FLO,85,2021上半年,1089
+Klebsiella aerogenes,FLO,68,2021上半年,68
+Klebsiella oxytoca,FLO,96,2021上半年,55
+Morganella morganii,FLO,91,2021上半年,116
+Proteus mirabilis,FLO,95,2021上半年,237
+Proteus species,FLO,100,2021上半年,31
+Providencia species,FLO,86,2021上半年,37
+Serratia marcescens,FLO,97,2021上半年,123
+Aeromonas species,LVX,95,2021上半年,41
+Citrobacter species,LVX,93,2021上半年,229
+Enterobacter cloacae complex,LVX,87,2021上半年,269
+Escherichia coli,LVX,64,2021上半年,2073
+Klebsiella pneumoniae,LVX,70,2021上半年,1089
+Klebsiella aerogenes,LVX,93,2021上半年,68
+Klebsiella oxytoca,LVX,89,2021上半年,55
+Morganella morganii,LVX,71,2021上半年,116
+Proteus mirabilis,LVX,74,2021上半年,237
+Proteus species,LVX,97,2021上半年,31
+Providencia species,LVX,68,2021上半年,37
+Serratia marcescens,LVX,84,2021上半年,123
+Aeromonas species,SXT,83,2021上半年,41
+Citrobacter species,SXT,91,2021上半年,229
+Enterobacter cloacae complex,SXT,79,2021上半年,269
+Escherichia coli,SXT,60,2021上半年,2073
+Klebsiella pneumoniae,SXT,59,2021上半年,1089
+Klebsiella aerogenes,SXT,90,2021上半年,68
+Klebsiella oxytoca,SXT,84,2021上半年,55
+Morganella morganii,SXT,58,2021上半年,116
+Proteus mirabilis,SXT,44,2021上半年,237
+Proteus species,SXT,90,2021上半年,31
+Providencia species,SXT,65,2021上半年,37
+Serratia marcescens,SXT,95,2021上半年,123
+Aeromonas species,CFM,,2021上半年,41
+Citrobacter species,CFM,77,2021上半年,229
+Enterobacter cloacae complex,CFM,48,2021上半年,269
+Escherichia coli,CFM,68,2021上半年,2073
+Klebsiella pneumoniae,CFM,59,2021上半年,1089
+Klebsiella aerogenes,CFM,64,2021上半年,68
+Klebsiella oxytoca,CFM,65,2021上半年,55
+Morganella morganii,CFM,79,2021上半年,116
+Proteus mirabilis,CFM,88,2021上半年,237
+Proteus species,CFM,100,2021上半年,31
+Providencia species,CFM,83,2021上半年,37
+Serratia marcescens,CFM,71,2021上半年,123
+Aeromonas species,FEP,90,2021上半年,41
+Citrobacter species,FEP,94,2021上半年,229
+Enterobacter cloacae complex,FEP,73,2021上半年,269
+Escherichia coli,FEP,84,2021上半年,2073
+Klebsiella pneumoniae,FEP,75,2021上半年,1089
+Klebsiella aerogenes,FEP,96,2021上半年,68
+Klebsiella oxytoca,FEP,82,2021上半年,55
+Morganella morganii,FEP,98,2021上半年,116
+Proteus mirabilis,FEP,90,2021上半年,237
+Proteus species,FEP,100,2021上半年,31
+Providencia species,FEP,97,2021上半年,37
+Serratia marcescens,FEP,92,2021上半年,123
+Salmonella species,AM,54,2021上半年,63
+Salmonella species,Etp,100,2021上半年,63
+Salmonella species,CTX,94,2021上半年,63
+Salmonella species,CRO,94,2021上半年,63
+Salmonella species,CIP,89,2021上半年,63
+Salmonella species,SXT,77,2021上半年,63
+Salmonella species,CFM,92,2021上半年,63
+Salmonella species,MEM,100,2021上半年,63
+Salmonella species,FEP,98,2021上半年,63
+Bacteroides fragilis,P,0,2021上半年,118
+Bacteroides species,P,0,2021上半年,75
+Clostridium difficile,P,64,2021上半年,11
+Clostridium species,P,82,2021上半年,39
+Cutibacterium species,P,100,2021上半年,114
+Fusobacterium species,P,92,2021上半年,60
+Peptostreptococcus species,P,87,2021上半年,189
+Prevotella species,P,18,2021上半年,133
+Veillonella parvula,P,4,2021上半年,51
+Bacteroides fragilis,SAM,60,2021上半年,118
+Bacteroides species,SAM,35,2021上半年,75
+Clostridium difficile,SAM,91,2021上半年,11
+Clostridium species,SAM,100,2021上半年,39
+Cutibacterium species,SAM,100,2021上半年,114
+Fusobacterium species,SAM,97,2021上半年,60
+Peptostreptococcus species,SAM,90,2021上半年,189
+Prevotella species,SAM,99,2021上半年,133
+Veillonella parvula,SAM,84,2021上半年,51
+Bacteroides fragilis,CC,51,2021上半年,118
+Bacteroides species,CC,34,2021上半年,75
+Clostridium difficile,CC,82,2021上半年,11
+Clostridium species,CC,64,2021上半年,39
+Cutibacterium species,CC,92,2021上半年,114
+Fusobacterium species,CC,97,2021上半年,60
+Peptostreptococcus species,CC,73,2021上半年,189
+Prevotella species,CC,50,2021上半年,133
+Veillonella parvula,CC,90,2021上半年,51
+Bacteroides fragilis,FLO,62,2021上半年,118
+Bacteroides species,FLO,37,2021上半年,75
+Clostridium difficile,FLO,91,2021上半年,11
+Clostridium species,FLO,100,2021上半年,39
+Cutibacterium species,FLO,100,2021上半年,114
+Fusobacterium species,FLO,98,2021上半年,60
+Peptostreptococcus species,FLO,98,2021上半年,189
+Prevotella species,FLO,87,2021上半年,133
+Veillonella parvula,FLO,100,2021上半年,51
+Bacteroides fragilis,MET,92,2021上半年,118
+Bacteroides species,MET,100,2021上半年,75
+Clostridium difficile,MET,100,2021上半年,11
+Clostridium species,MET,90,2021上半年,39
+Cutibacterium species,MET,0,2021上半年,114
+Fusobacterium species,MET,100,2021上半年,60
+Peptostreptococcus species,MET,100,2021上半年,189
+Prevotella species,MET,94,2021上半年,133
+Veillonella parvula,MET,100,2021上半年,51
+Haemophilus influenzae,AM,42,2021上半年,41
+Haemophilus parainfluenzae,AM,75,2021上半年,8
+Haemophilus influenzae,SAM,90,2021上半年,41
+Haemophilus parainfluenzae,SAM,100,2021上半年,8
+Haemophilus influenzae,AMC,76,2021上半年,41
+Haemophilus parainfluenzae,AMC,100,2021上半年,8
+Haemophilus influenzae,CXM,88,2021上半年,41
+Haemophilus parainfluenzae,CXM,100,2021上半年,8
+Haemophilus influenzae,CTX,100,2021上半年,41
+Haemophilus parainfluenzae,CTX,100,2021上半年,8
+Haemophilus influenzae,CRO,100,2021上半年,41
+Haemophilus parainfluenzae,CRO,100,2021上半年,8
+Haemophilus influenzae,LVX,73,2021上半年,41
+Haemophilus parainfluenzae,LVX,63,2021上半年,8
+Haemophilus influenzae,CFM,98,2021上半年,41
+Haemophilus parainfluenzae,CFM,100,2021上半年,8
+Haemophilus influenzae,MxF,71,2021上半年,41
+Haemophilus parainfluenzae,MxF,43,2021上半年,8
+Neisseria gonorrhoeae,P,14,2021上半年,7
+Neisseria gonorrhoeae,CTX,100,2021上半年,7
+Neisseria gonorrhoeae,CRO,100,2021上半年,7
+Neisseria gonorrhoeae,CIP,0,2021上半年,7
+Neisseria gonorrhoeae,CFM,100,2021上半年,7
+Neisseria gonorrhoeae,FEP,100,2021上半年,7
+Coagulase(-)Staphylococcus,OX,44,2021上半年,485
+Staphylococcus aureus,OX,62,2021上半年,783
+ORSA,OX,0,2021上半年,305
+OSSA,OX,100,2021上半年,485
+Coagulase(-)Staphylococcus,CC,66,2021上半年,485
+Staphylococcus aureus,CC,75,2021上半年,783
+ORSA,CC,50,2021上半年,305
+OSSA,CC,91,2021上半年,485
+Coagulase(-)Staphylococcus,E,51,2021上半年,485
+Staphylococcus aureus,E,51,2021上半年,783
+ORSA,E,25,2021上半年,305
+OSSA,E,67,2021上半年,485
+Coagulase(-)Staphylococcus,GN,66,2021上半年,485
+Staphylococcus aureus,GN,75,2021上半年,783
+ORSA,GN,68,2021上半年,305
+OSSA,GN,80,2021上半年,485
+Coagulase(-)Staphylococcus,SXT,71,2021上半年,485
+Staphylococcus aureus,SXT,96,2021上半年,783
+ORSA,SXT,90,2021上半年,305
+OSSA,SXT,99,2021上半年,485
+Coagulase(-)Staphylococcus,RA,92,2021上半年,485
+Staphylococcus aureus,RA,99.9,2021上半年,783
+ORSA,RA,99.6,2021上半年,305
+OSSA,RA,100,2021上半年,485
+Coagulase(-)Staphylococcus,FA,71,2021上半年,485
+Staphylococcus aureus,FA,92,2021上半年,783
+ORSA,FA,96,2021上半年,305
+OSSA,FA,90,2021上半年,485
+Coagulase(-)Staphylococcus,LZD,99.8,2021上半年,485
+Staphylococcus aureus,LZD,100,2021上半年,783
+ORSA,LZD,100,2021上半年,305
+OSSA,LZD,100,2021上半年,485
+Enterococcus faeclais,P,98,2021上半年,711
+Enterococcus faecium,P,7,2021上半年,370
+Enterococcus gallinarum/Enterococcus casseliflavus,P,93,2021上半年,30
+Enterococcus species,P,66,2021上半年,83
+Enterococcus faeclais,VA,100,2021上半年,711
+Enterococcus faecium,VA,52,2021上半年,370
+Enterococcus gallinarum/Enterococcus casseliflavus,VA,0,2021上半年,30
+Enterococcus species,VA,99,2021上半年,83
+Enterococcus faeclais,AM,100,2021上半年,711
+Enterococcus faecium,AM,10,2021上半年,370
+Enterococcus gallinarum/Enterococcus casseliflavus,AM,7,2021上半年,30
+Enterococcus species,AM,70,2021上半年,83
+Enterococcus faeclais,E,16,2021上半年,711
+Enterococcus faecium,E,8,2021上半年,370
+Enterococcus gallinarum/Enterococcus casseliflavus,E,63,2021上半年,30
+Enterococcus species,E,54,2021上半年,83
+Enterococcus faeclais,GN,61,2021上半年,711
+Enterococcus faecium,GN,84,2021上半年,370
+Enterococcus gallinarum/Enterococcus casseliflavus,GN,93,2021上半年,30
+Enterococcus species,GN,88,2021上半年,83
+Enterococcus faeclais,TEC,100,2021上半年,711
+Enterococcus faecium,TEC,52,2021上半年,370
+Enterococcus gallinarum/Enterococcus casseliflavus,TEC,96,2021上半年,30
+Enterococcus species,TEC,99,2021上半年,83
+Enterococcus faeclais,S,78,2021上半年,711
+Enterococcus faecium,S,76,2021上半年,370
+Enterococcus gallinarum/Enterococcus casseliflavus,S,90,2021上半年,30
+Enterococcus species,S,87,2021上半年,83
+Enterococcus faeclais,LZD,100,2021上半年,711
+Enterococcus faecium,LZD,100,2021上半年,370
+Enterococcus gallinarum/Enterococcus casseliflavus,LZD,100,2021上半年,30
+Enterococcus species,LZD,100,2021上半年,83
+β-hemolytic streptococci,P,99,2021上半年,375
+Streptococcus pneumoniae,P,75,2021上半年,28
+Streptococcus species,P,62,2021上半年,420
+β-hemolytic streptococci,VA,100,2021上半年,375
+Streptococcus pneumoniae,VA,100,2021上半年,28
+Streptococcus species,VA,100,2021上半年,420
+β-hemolytic streptococci,AM,99,2021上半年,375
+Streptococcus pneumoniae,AM,,2021上半年,28
+Streptococcus species,AM,76,2021上半年,420
+β-hemolytic streptococci,CC,66,2021上半年,375
+Streptococcus pneumoniae,CC,11,2021上半年,28
+Streptococcus species,CC,75,2021上半年,420
+β-hemolytic streptococci,E,66,2021上半年,375
+Streptococcus pneumoniae,E,4,2021上半年,28
+Streptococcus species,E,53,2021上半年,420
+β-hemolytic streptococci,CZ,100,2021上半年,375
+Streptococcus pneumoniae,CZ,,2021上半年,28
+Streptococcus species,CZ,100,2021上半年,420
+β-hemolytic streptococci,CTX,100,2021上半年,375
+Streptococcus pneumoniae,CTX,,2021上半年,28
+Streptococcus species,CTX,93,2021上半年,420
+β-hemolytic streptococci,CRO,99.7,2021上半年,375
+Streptococcus pneumoniae,CRO,,2021上半年,28
+Streptococcus species,CRO,93,2021上半年,420
+β-hemolytic streptococci,LVX,94,2021上半年,375
+Streptococcus pneumoniae,LVX,100,2021上半年,28
+Streptococcus species,LVX,87,2021上半年,420
+β-hemolytic streptococci,SXT,,2021上半年,375
+Streptococcus pneumoniae,SXT,70,2021上半年,28
+Streptococcus species,SXT,,2021上半年,420
+β-hemolytic streptococci,FEP,100,2021上半年,375
+Streptococcus pneumoniae,FEP,,2021上半年,28
+Streptococcus species,FEP,94,2021上半年,420
+β-hemolytic streptococci,MxF,,2021上半年,375
+Streptococcus pneumoniae,MxF,100,2021上半年,28
+Streptococcus species,MxF,,2021上半年,420
+Acinetobacter baumannii complex,SAM,65,2020下半年,271
+Acinetobacter baumannii complex,PIP,35,2020下半年,271
+Acinetobacter baumannii complex,TZP,52,2020下半年,271
+Acinetobacter baumannii complex,AN,59,2020下半年,271
+Acinetobacter baumannii complex,LVX,,2020下半年,271
+Acinetobacter baumannii complex,CIP,52,2020下半年,271
+Acinetobacter baumannii complex,IPM,58,2020下半年,271
+Acinetobacter baumannii complex,CAZ,54,2020下半年,271
+Acinetobacter baumannii complex,SXT,55,2020下半年,271
+Acinetobacter baumannii complex,MEM,57,2020下半年,271
+Acinetobacter baumannii complex,FEP,58,2020下半年,271
+Acinetobacter baumannii,SAM,53,2020下半年,200
+Acinetobacter baumannii,PIP,32,2020下半年,200
+Acinetobacter baumannii,TZP,41,2020下半年,200
+Acinetobacter baumannii,AN,47,2020下半年,200
+Acinetobacter baumannii,LVX,,2020下半年,200
+Acinetobacter baumannii,CIP,41,2020下半年,200
+Acinetobacter baumannii,IPM,47,2020下半年,200
+Acinetobacter baumannii,CAZ,43,2020下半年,200
+Acinetobacter baumannii,SXT,44,2020下半年,200
+Acinetobacter baumannii,MEM,47,2020下半年,200
+Acinetobacter baumannii,FEP,45,2020下半年,200
+Acinetobacter calcoaceticus,SAM,50,2020下半年,2
+Acinetobacter calcoaceticus,PIP,0,2020下半年,2
+Acinetobacter calcoaceticus,TZP,50,2020下半年,2
+Acinetobacter calcoaceticus,AN,100,2020下半年,2
+Acinetobacter calcoaceticus,LVX,,2020下半年,2
+Acinetobacter calcoaceticus,CIP,50,2020下半年,2
+Acinetobacter calcoaceticus,IPM,50,2020下半年,2
+Acinetobacter calcoaceticus,CAZ,0,2020下半年,2
+Acinetobacter calcoaceticus,SXT,50,2020下半年,2
+Acinetobacter calcoaceticus,MEM,50,2020下半年,2
+Acinetobacter calcoaceticus,FEP,50,2020下半年,2
+Acinetobacter nosocomialis,SAM,100,2020下半年,22
+Acinetobacter nosocomialis,PIP,65,2020下半年,22
+Acinetobacter nosocomialis,TZP,91,2020下半年,22
+Acinetobacter nosocomialis,AN,95,2020下半年,22
+Acinetobacter nosocomialis,LVX,,2020下半年,22
+Acinetobacter nosocomialis,CIP,91,2020下半年,22
+Acinetobacter nosocomialis,IPM,91,2020下半年,22
+Acinetobacter nosocomialis,CAZ,91,2020下半年,22
+Acinetobacter nosocomialis,SXT,86,2020下半年,22
+Acinetobacter nosocomialis,MEM,91,2020下半年,22
+Acinetobacter nosocomialis,FEP,91,2020下半年,22
+Acinetobacter pittii,SAM,100,2020下半年,47
+Acinetobacter pittii,PIP,36,2020下半年,47
+Acinetobacter pittii,TZP,80,2020下半年,47
+Acinetobacter pittii,AN,95,2020下半年,47
+Acinetobacter pittii,LVX,,2020下半年,47
+Acinetobacter pittii,CIP,83,2020下半年,47
+Acinetobacter pittii,IPM,89,2020下半年,47
+Acinetobacter pittii,CAZ,85,2020下半年,47
+Acinetobacter pittii,SXT,87,2020下半年,47
+Acinetobacter pittii,MEM,85,2020下半年,47
+Acinetobacter pittii,FEP,98,2020下半年,47
+Acinetobacter species,SAM,96,2020下半年,143
+Acinetobacter species,PIP,49,2020下半年,143
+Acinetobacter species,TZP,57,2020下半年,143
+Acinetobacter species,AN,98,2020下半年,143
+Acinetobacter species,LVX,,2020下半年,143
+Acinetobacter species,CIP,61,2020下半年,143
+Acinetobacter species,IPM,74,2020下半年,143
+Acinetobacter species,CAZ,66,2020下半年,143
+Acinetobacter species,SXT,54,2020下半年,143
+Acinetobacter species,MEM,72,2020下半年,143
+Acinetobacter species,FEP,82,2020下半年,143
+Burkholderia cepacia complex,SAM,,2020下半年,29
+Burkholderia cepacia complex,PIP,,2020下半年,29
+Burkholderia cepacia complex,TZP,,2020下半年,29
+Burkholderia cepacia complex,AN,,2020下半年,29
+Burkholderia cepacia complex,LVX,,2020下半年,29
+Burkholderia cepacia complex,CIP,,2020下半年,29
+Burkholderia cepacia complex,IPM,,2020下半年,29
+Burkholderia cepacia complex,CAZ,97,2020下半年,29
+Burkholderia cepacia complex,SXT,100,2020下半年,29
+Burkholderia cepacia complex,MEM,93,2020下半年,29
+Burkholderia cepacia complex,FEP,,2020下半年,29
+Stenotrophomonas maltophilia,SAM,,2020下半年,244
+Stenotrophomonas maltophilia,PIP,,2020下半年,244
+Stenotrophomonas maltophilia,TZP,,2020下半年,244
+Stenotrophomonas maltophilia,AN,,2020下半年,244
+Stenotrophomonas maltophilia,LVX,95,2020下半年,244
+Stenotrophomonas maltophilia,CIP,,2020下半年,244
+Stenotrophomonas maltophilia,IPM,,2020下半年,244
+Stenotrophomonas maltophilia,CAZ,,2020下半年,244
+Stenotrophomonas maltophilia,SXT,89,2020下半年,244
+Stenotrophomonas maltophilia,MEM,,2020下半年,244
+Stenotrophomonas maltophilia,FEP,,2020下半年,244
+Pseudomonas aeruginosa,PIP,92,2020下半年,769
+Pseudomonas aeruginosa,TZP,94,2020下半年,769
+Pseudomonas aeruginosa,GN,98,2020下半年,769
+Pseudomonas aeruginosa,AN,99.5,2020下半年,769
+Pseudomonas aeruginosa,LVX,83,2020下半年,769
+Pseudomonas aeruginosa,CIP,86,2020下半年,769
+Pseudomonas aeruginosa,IPM,92,2020下半年,769
+Pseudomonas aeruginosa,CAZ,97,2020下半年,769
+Pseudomonas aeruginosa,MEM,93,2020下半年,769
+Pseudomonas aeruginosa,FEP,98,2020下半年,769
+Aeromonas species,SAM,,2020下半年,59
+Citrobacter species,SAM,69,2020下半年,214
+Enterobacter cloacae complex,SAM,1,2020下半年,279
+Escherichia coli,SAM,72,2020下半年,2361
+Klebsiella pneumoniae,SAM,56,2020下半年,1142
+Klebsiella aerogenes,SAM,0,2020下半年,75
+Klebsiella oxytoca,SAM,74,2020下半年,37
+Morganella morganii,SAM,51,2020下半年,112
+Proteus mirabilis,SAM,79,2020下半年,273
+Proteus species,SAM,88,2020下半年,33
+Providencia species,SAM,48,2020下半年,52
+Serratia marcescens,SAM,2,2020下半年,93
+Aeromonas species,GN,80,2020下半年,59
+Citrobacter species,GN,90,2020下半年,214
+Enterobacter cloacae complex,GN,83,2020下半年,279
+Escherichia coli,GN,79,2020下半年,2361
+Klebsiella pneumoniae,GN,68,2020下半年,1142
+Klebsiella aerogenes,GN,97,2020下半年,75
+Klebsiella oxytoca,GN,92,2020下半年,37
+Morganella morganii,GN,85,2020下半年,112
+Proteus mirabilis,GN,77,2020下半年,273
+Proteus species,GN,100,2020下半年,33
+Providencia species,GN,28,2020下半年,52
+Serratia marcescens,GN,88,2020下半年,93
+Aeromonas species,Etp,89,2020下半年,59
+Citrobacter species,Etp,97,2020下半年,214
+Enterobacter cloacae complex,Etp,87,2020下半年,279
+Escherichia coli,Etp,99,2020下半年,2361
+Klebsiella pneumoniae,Etp,94,2020下半年,1142
+Klebsiella aerogenes,Etp,99,2020下半年,75
+Klebsiella oxytoca,Etp,100,2020下半年,37
+Morganella morganii,Etp,100,2020下半年,112
+Proteus mirabilis,Etp,100,2020下半年,273
+Proteus species,Etp,100,2020下半年,33
+Providencia species,Etp,100,2020下半年,52
+Serratia marcescens,Etp,99,2020下半年,93
+Aeromonas species,CZ,,2020下半年,59
+Citrobacter species,CZ,61,2020下半年,214
+Enterobacter cloacae complex,CZ,0,2020下半年,279
+Escherichia coli,CZ,52,2020下半年,2361
+Klebsiella pneumoniae,CZ,54,2020下半年,1142
+Klebsiella aerogenes,CZ,0,2020下半年,75
+Klebsiella oxytoca,CZ,3,2020下半年,37
+Morganella morganii,CZ,0,2020下半年,112
+Proteus mirabilis,CZ,45,2020下半年,273
+Proteus species,CZ,0,2020下半年,33
+Providencia species,CZ,0,2020下半年,52
+Serratia marcescens,CZ,0,2020下半年,93
+Aeromonas species,FOX,47,2020下半年,59
+Citrobacter species,FOX,64,2020下半年,214
+Enterobacter cloacae complex,FOX,0,2020下半年,279
+Escherichia coli,FOX,86,2020下半年,2361
+Klebsiella pneumoniae,FOX,71,2020下半年,1142
+Klebsiella aerogenes,FOX,0,2020下半年,75
+Klebsiella oxytoca,FOX,97,2020下半年,37
+Morganella morganii,FOX,44,2020下半年,112
+Proteus mirabilis,FOX,92,2020下半年,273
+Proteus species,FOX,100,2020下半年,33
+Providencia species,FOX,86,2020下半年,52
+Serratia marcescens,FOX,0,2020下半年,93
+Aeromonas species,CXM,81,2020下半年,59
+Citrobacter species,CXM,66,2020下半年,214
+Enterobacter cloacae complex,CXM,49,2020下半年,279
+Escherichia coli,CXM,69,2020下半年,2361
+Klebsiella pneumoniae,CXM,59,2020下半年,1142
+Klebsiella aerogenes,CXM,50,2020下半年,75
+Klebsiella oxytoca,CXM,81,2020下半年,37
+Morganella morganii,CXM,0,2020下半年,112
+Proteus mirabilis,CXM,88,2020下半年,273
+Proteus species,CXM,0,2020下半年,33
+Providencia species,CXM,80,2020下半年,52
+Serratia marcescens,CXM,0,2020下半年,93
+Aeromonas species,CRO,77,2020下半年,59
+Citrobacter species,CRO,78,2020下半年,214
+Enterobacter cloacae complex,CRO,55,2020下半年,279
+Escherichia coli,CRO,70,2020下半年,2361
+Klebsiella pneumoniae,CRO,72,2020下半年,1142
+Klebsiella aerogenes,CRO,71,2020下半年,75
+Klebsiella oxytoca,CRO,81,2020下半年,37
+Morganella morganii,CRO,96,2020下半年,112
+Proteus mirabilis,CRO,91,2020下半年,273
+Proteus species,CRO,100,2020下半年,33
+Providencia species,CRO,90,2020下半年,52
+Serratia marcescens,CRO,80,2020下半年,93
+Aeromonas species,FLO,62,2020下半年,59
+Citrobacter species,FLO,85,2020下半年,214
+Enterobacter cloacae complex,FLO,57,2020下半年,279
+Escherichia coli,FLO,93,2020下半年,2361
+Klebsiella pneumoniae,FLO,82,2020下半年,1142
+Klebsiella aerogenes,FLO,59,2020下半年,75
+Klebsiella oxytoca,FLO,100,2020下半年,37
+Morganella morganii,FLO,95,2020下半年,112
+Proteus mirabilis,FLO,94,2020下半年,273
+Proteus species,FLO,95,2020下半年,33
+Providencia species,FLO,95,2020下半年,52
+Serratia marcescens,FLO,98,2020下半年,93
+Aeromonas species,LVX,96,2020下半年,59
+Citrobacter species,LVX,90,2020下半年,214
+Enterobacter cloacae complex,LVX,80,2020下半年,279
+Escherichia coli,LVX,65,2020下半年,2361
+Klebsiella pneumoniae,LVX,73,2020下半年,1142
+Klebsiella aerogenes,LVX,91,2020下半年,75
+Klebsiella oxytoca,LVX,97,2020下半年,37
+Morganella morganii,LVX,91,2020下半年,112
+Proteus mirabilis,LVX,71,2020下半年,273
+Proteus species,LVX,100,2020下半年,33
+Providencia species,LVX,64,2020下半年,52
+Serratia marcescens,LVX,90,2020下半年,93
+Aeromonas species,SXT,75,2020下半年,59
+Citrobacter species,SXT,86,2020下半年,214
+Enterobacter cloacae complex,SXT,72,2020下半年,279
+Escherichia coli,SXT,57,2020下半年,2361
+Klebsiella pneumoniae,SXT,57,2020下半年,1142
+Klebsiella aerogenes,SXT,91,2020下半年,75
+Klebsiella oxytoca,SXT,97,2020下半年,37
+Morganella morganii,SXT,71,2020下半年,112
+Proteus mirabilis,SXT,49,2020下半年,273
+Proteus species,SXT,78,2020下半年,33
+Providencia species,SXT,56,2020下半年,52
+Serratia marcescens,SXT,99,2020下半年,93
+Aeromonas species,CFM,,2020下半年,59
+Citrobacter species,CFM,70,2020下半年,214
+Enterobacter cloacae complex,CFM,44,2020下半年,279
+Escherichia coli,CFM,69,2020下半年,2361
+Klebsiella pneumoniae,CFM,57,2020下半年,1142
+Klebsiella aerogenes,CFM,54,2020下半年,75
+Klebsiella oxytoca,CFM,84,2020下半年,37
+Morganella morganii,CFM,83,2020下半年,112
+Proteus mirabilis,CFM,90,2020下半年,273
+Proteus species,CFM,100,2020下半年,33
+Providencia species,CFM,82,2020下半年,52
+Serratia marcescens,CFM,74,2020下半年,93
+Aeromonas species,FEP,90,2020下半年,59
+Citrobacter species,FEP,89,2020下半年,214
+Enterobacter cloacae complex,FEP,75,2020下半年,279
+Escherichia coli,FEP,83,2020下半年,2361
+Klebsiella pneumoniae,FEP,79,2020下半年,1142
+Klebsiella aerogenes,FEP,95,2020下半年,75
+Klebsiella oxytoca,FEP,97,2020下半年,37
+Morganella morganii,FEP,100,2020下半年,112
+Proteus mirabilis,FEP,93,2020下半年,273
+Proteus species,FEP,100,2020下半年,33
+Providencia species,FEP,98,2020下半年,52
+Serratia marcescens,FEP,92,2020下半年,93
+Salmonella species,AM,60,2020下半年,95
+Salmonella species,Etp,100,2020下半年,95
+Salmonella species,CTX,85,2020下半年,95
+Salmonella species,CRO,90,2020下半年,95
+Salmonella species,CIP,9,2020下半年,95
+Salmonella species,SXT,76,2020下半年,95
+Salmonella species,CFM,81,2020下半年,95
+Salmonella species,MEM,100,2020下半年,95
+Salmonella species,FEP,95,2020下半年,95
+Bacteroides fragilis,P,0,2020下半年,111
+Bacteroides species,P,0,2020下半年,70
+Clostridium difficile,P,67,2020下半年,6
+Clostridium species,P,74,2020下半年,28
+Cutibacterium species,P,100,2020下半年,180
+Fusobacterium species,P,88,2020下半年,68
+Peptostreptococcus species,P,91,2020下半年,177
+Prevotella species,P,18,2020下半年,146
+Veillonella parvula,P,14,2020下半年,38
+Bacteroides fragilis,SAM,60,2020下半年,111
+Bacteroides species,SAM,63,2020下半年,70
+Clostridium difficile,SAM,100,2020下半年,6
+Clostridium species,SAM,93,2020下半年,28
+Cutibacterium species,SAM,100,2020下半年,180
+Fusobacterium species,SAM,93,2020下半年,68
+Peptostreptococcus species,SAM,95,2020下半年,177
+Prevotella species,SAM,97,2020下半年,146
+Veillonella parvula,SAM,97,2020下半年,38
+Bacteroides fragilis,CC,44,2020下半年,111
+Bacteroides species,CC,47,2020下半年,70
+Clostridium difficile,CC,100,2020下半年,6
+Clostridium species,CC,68,2020下半年,28
+Cutibacterium species,CC,90,2020下半年,180
+Fusobacterium species,CC,88,2020下半年,68
+Peptostreptococcus species,CC,67,2020下半年,177
+Prevotella species,CC,49,2020下半年,146
+Veillonella parvula,CC,92,2020下半年,38
+Bacteroides fragilis,FLO,56,2020下半年,111
+Bacteroides species,FLO,47,2020下半年,70
+Clostridium difficile,FLO,100,2020下半年,6
+Clostridium species,FLO,100,2020下半年,28
+Cutibacterium species,FLO,100,2020下半年,180
+Fusobacterium species,FLO,97,2020下半年,68
+Peptostreptococcus species,FLO,99,2020下半年,177
+Prevotella species,FLO,93,2020下半年,146
+Veillonella parvula,FLO,100,2020下半年,38
+Bacteroides fragilis,MET,88,2020下半年,111
+Bacteroides species,MET,99,2020下半年,70
+Clostridium difficile,MET,100,2020下半年,6
+Clostridium species,MET,82,2020下半年,28
+Cutibacterium species,MET,0,2020下半年,180
+Fusobacterium species,MET,100,2020下半年,68
+Peptostreptococcus species,MET,99,2020下半年,177
+Prevotella species,MET,90,2020下半年,146
+Veillonella parvula,MET,100,2020下半年,38
+Haemophilus influenzae,AM,33,2020下半年,43
+Haemophilus parainfluenzae,AM,72,2020下半年,19
+Haemophilus influenzae,SAM,84,2020下半年,43
+Haemophilus parainfluenzae,SAM,94,2020下半年,19
+Haemophilus influenzae,AMC,51,2020下半年,43
+Haemophilus parainfluenzae,AMC,83,2020下半年,19
+Haemophilus influenzae,CXM,81,2020下半年,43
+Haemophilus parainfluenzae,CXM,94,2020下半年,19
+Haemophilus influenzae,CTX,100,2020下半年,43
+Haemophilus parainfluenzae,CTX,94,2020下半年,19
+Haemophilus influenzae,CRO,100,2020下半年,43
+Haemophilus parainfluenzae,CRO,94,2020下半年,19
+Haemophilus influenzae,LVX,74,2020下半年,43
+Haemophilus parainfluenzae,LVX,61,2020下半年,19
+Haemophilus influenzae,CFM,95,2020下半年,43
+Haemophilus parainfluenzae,CFM,94,2020下半年,19
+Haemophilus influenzae,MxF,72,2020下半年,43
+Haemophilus parainfluenzae,MxF,61,2020下半年,19
+Neisseria gonorrhoeae,P,0,2020下半年,20
+Neisseria gonorrhoeae,CTX,100,2020下半年,20
+Neisseria gonorrhoeae,CRO,100,2020下半年,20
+Neisseria gonorrhoeae,CIP,5,2020下半年,20
+Neisseria gonorrhoeae,CFM,100,2020下半年,20
+Neisseria gonorrhoeae,FEP,100,2020下半年,20
+Coagulase(-)Staphylococcus,OX,37,2020下半年,486
+Staphylococcus aureus,OX,62,2020下半年,895
+ORSA,OX,0,2020下半年,359
+OSSA,OX,100,2020下半年,550
+Coagulase(-)Staphylococcus,CC,64,2020下半年,486
+Staphylococcus aureus,CC,76,2020下半年,895
+ORSA,CC,55,2020下半年,359
+OSSA,CC,88,2020下半年,550
+Coagulase(-)Staphylococcus,E,43,2020下半年,486
+Staphylococcus aureus,E,49,2020下半年,895
+ORSA,E,25,2020下半年,359
+OSSA,E,64,2020下半年,550
+Coagulase(-)Staphylococcus,GN,55,2020下半年,486
+Staphylococcus aureus,GN,68,2020下半年,895
+ORSA,GN,61,2020下半年,359
+OSSA,GN,71,2020下半年,550
+Coagulase(-)Staphylococcus,SXT,68,2020下半年,486
+Staphylococcus aureus,SXT,96,2020下半年,895
+ORSA,SXT,90,2020下半年,359
+OSSA,SXT,99,2020下半年,550
+Coagulase(-)Staphylococcus,RA,88,2020下半年,486
+Staphylococcus aureus,RA,99,2020下半年,895
+ORSA,RA,98,2020下半年,359
+OSSA,RA,100,2020下半年,550
+Coagulase(-)Staphylococcus,FA,70,2020下半年,486
+Staphylococcus aureus,FA,93,2020下半年,895
+ORSA,FA,94,2020下半年,359
+OSSA,FA,93,2020下半年,550
+Coagulase(-)Staphylococcus,LZD,100,2020下半年,486
+Staphylococcus aureus,LZD,99.9,2020下半年,895
+ORSA,LZD,99.7,2020下半年,359
+OSSA,LZD,100,2020下半年,550
+Enterococcus faeclais,P,97,2020下半年,757
+Enterococcus faecium,P,10,2020下半年,366
+Enterococcus gallinarum/Enterococcus casseliflavus,P,87,2020下半年,50
+Enterococcus species,P,62,2020下半年,85
+Enterococcus faeclais,VA,100,2020下半年,757
+Enterococcus faecium,VA,48,2020下半年,366
+Enterococcus gallinarum/Enterococcus casseliflavus,VA,0,2020下半年,50
+Enterococcus species,VA,100,2020下半年,85
+Enterococcus faeclais,AM,100,2020下半年,757
+Enterococcus faecium,AM,13,2020下半年,366
+Enterococcus gallinarum/Enterococcus casseliflavus,AM,94,2020下半年,50
+Enterococcus species,AM,63,2020下半年,85
+Enterococcus faeclais,E,21,2020下半年,757
+Enterococcus faecium,E,12,2020下半年,366
+Enterococcus gallinarum/Enterococcus casseliflavus,E,60,2020下半年,50
+Enterococcus species,E,58,2020下半年,85
+Enterococcus faeclais,GN,64,2020下半年,757
+Enterococcus faecium,GN,85,2020下半年,366
+Enterococcus gallinarum/Enterococcus casseliflavus,GN,85,2020下半年,50
+Enterococcus species,GN,89,2020下半年,85
+Enterococcus faeclais,TEC,100,2020下半年,757
+Enterococcus faecium,TEC,50,2020下半年,366
+Enterococcus gallinarum/Enterococcus casseliflavus,TEC,100,2020下半年,50
+Enterococcus species,TEC,100,2020下半年,85
+Enterococcus faeclais,S,74,2020下半年,757
+Enterococcus faecium,S,71,2020下半年,366
+Enterococcus gallinarum/Enterococcus casseliflavus,S,83,2020下半年,50
+Enterococcus species,S,89,2020下半年,85
+Enterococcus faeclais,LZD,99,2020下半年,757
+Enterococcus faecium,LZD,100,2020下半年,366
+Enterococcus gallinarum/Enterococcus casseliflavus,LZD,98,2020下半年,50
+Enterococcus species,LZD,100,2020下半年,85
+β-hemolytic streptococci,P,100,2020下半年,357
+Streptococcus pneumoniae,P,83,2020下半年,31
+Streptococcus species,P,61,2020下半年,529
+β-hemolytic streptococci,VA,100,2020下半年,357
+Streptococcus pneumoniae,VA,100,2020下半年,31
+Streptococcus species,VA,100,2020下半年,529
+β-hemolytic streptococci,AM,100,2020下半年,357
+Streptococcus pneumoniae,AM,,2020下半年,31
+Streptococcus species,AM,78,2020下半年,529
+β-hemolytic streptococci,CC,64,2020下半年,357
+Streptococcus pneumoniae,CC,23,2020下半年,31
+Streptococcus species,CC,76,2020下半年,529
+β-hemolytic streptococci,E,65,2020下半年,357
+Streptococcus pneumoniae,E,3,2020下半年,31
+Streptococcus species,E,63,2020下半年,529
+β-hemolytic streptococci,CZ,100,2020下半年,357
+Streptococcus pneumoniae,CZ,,2020下半年,31
+Streptococcus species,CZ,100,2020下半年,529
+β-hemolytic streptococci,CTX,100,2020下半年,357
+Streptococcus pneumoniae,CTX,,2020下半年,31
+Streptococcus species,CTX,95,2020下半年,529
+β-hemolytic streptococci,CRO,100,2020下半年,357
+Streptococcus pneumoniae,CRO,,2020下半年,31
+Streptococcus species,CRO,95,2020下半年,529
+β-hemolytic streptococci,LVX,96,2020下半年,357
+Streptococcus pneumoniae,LVX,87,2020下半年,31
+Streptococcus species,LVX,90,2020下半年,529
+β-hemolytic streptococci,SXT,,2020下半年,357
+Streptococcus pneumoniae,SXT,55,2020下半年,31
+Streptococcus species,SXT,,2020下半年,529
+β-hemolytic streptococci,FEP,100,2020下半年,357
+Streptococcus pneumoniae,FEP,,2020下半年,31
+Streptococcus species,FEP,97,2020下半年,529
+β-hemolytic streptococci,MxF,,2020下半年,357
+Streptococcus pneumoniae,MxF,87,2020下半年,31
+Streptococcus species,MxF,,2020下半年,529
+Acinetobacter baumannii complex,SAM,73,2020上半年,243
+Acinetobacter baumannii complex,PIP,38,2020上半年,243
+Acinetobacter baumannii complex,TZP,52,2020上半年,243
+Acinetobacter baumannii complex,AN,65,2020上半年,243
+Acinetobacter baumannii complex,LVX,,2020上半年,243
+Acinetobacter baumannii complex,CIP,58,2020上半年,243
+Acinetobacter baumannii complex,IPM,60,2020上半年,243
+Acinetobacter baumannii complex,CAZ,59,2020上半年,243
+Acinetobacter baumannii complex,SXT,51,2020上半年,243
+Acinetobacter baumannii complex,MEM,60,2020上半年,243
+Acinetobacter baumannii complex,FEP,63,2020上半年,243
+Acinetobacter baumannii,SAM,63,2020上半年,168
+Acinetobacter baumannii,PIP,38,2020上半年,168
+Acinetobacter baumannii,TZP,43,2020上半年,168
+Acinetobacter baumannii,AN,53,2020上半年,168
+Acinetobacter baumannii,LVX,,2020上半年,168
+Acinetobacter baumannii,CIP,48,2020上半年,168
+Acinetobacter baumannii,IPM,49,2020上半年,168
+Acinetobacter baumannii,CAZ,46,2020上半年,168
+Acinetobacter baumannii,SXT,43,2020上半年,168
+Acinetobacter baumannii,MEM,50,2020上半年,168
+Acinetobacter baumannii,FEP,52,2020上半年,168
+Acinetobacter calcoaceticus,SAM,83,2020上半年,6
+Acinetobacter calcoaceticus,PIP,60,2020上半年,6
+Acinetobacter calcoaceticus,TZP,83,2020上半年,6
+Acinetobacter calcoaceticus,AN,100,2020上半年,6
+Acinetobacter calcoaceticus,LVX,,2020上半年,6
+Acinetobacter calcoaceticus,CIP,83,2020上半年,6
+Acinetobacter calcoaceticus,IPM,83,2020上半年,6
+Acinetobacter calcoaceticus,CAZ,100,2020上半年,6
+Acinetobacter calcoaceticus,SXT,83,2020上半年,6
+Acinetobacter calcoaceticus,MEM,67,2020上半年,6
+Acinetobacter calcoaceticus,FEP,100,2020上半年,6
+Acinetobacter nosocomialis,SAM,92,2020上半年,26
+Acinetobacter nosocomialis,PIP,75,2020上半年,26
+Acinetobacter nosocomialis,TZP,81,2020上半年,26
+Acinetobacter nosocomialis,AN,92,2020上半年,26
+Acinetobacter nosocomialis,LVX,,2020上半年,26
+Acinetobacter nosocomialis,CIP,85,2020上半年,26
+Acinetobacter nosocomialis,IPM,85,2020上半年,26
+Acinetobacter nosocomialis,CAZ,89,2020上半年,26
+Acinetobacter nosocomialis,SXT,69,2020上半年,26
+Acinetobacter nosocomialis,MEM,85,2020上半年,26
+Acinetobacter nosocomialis,FEP,81,2020上半年,26
+Acinetobacter pittii,SAM,100,2020上半年,43
+Acinetobacter pittii,PIP,11,2020上半年,43
+Acinetobacter pittii,TZP,64,2020上半年,43
+Acinetobacter pittii,AN,97,2020上半年,43
+Acinetobacter pittii,LVX,,2020上半年,43
+Acinetobacter pittii,CIP,79,2020上半年,43
+Acinetobacter pittii,IPM,83,2020上半年,43
+Acinetobacter pittii,CAZ,88,2020上半年,43
+Acinetobacter pittii,SXT,67,2020上半年,43
+Acinetobacter pittii,MEM,83,2020上半年,43
+Acinetobacter pittii,FEP,93,2020上半年,43
+Acinetobacter species,SAM,92,2020上半年,154
+Acinetobacter species,PIP,46,2020上半年,154
+Acinetobacter species,TZP,64,2020上半年,154
+Acinetobacter species,AN,96,2020上半年,154
+Acinetobacter species,LVX,,2020上半年,154
+Acinetobacter species,CIP,64,2020上半年,154
+Acinetobacter species,IPM,73,2020上半年,154
+Acinetobacter species,CAZ,69,2020上半年,154
+Acinetobacter species,SXT,51,2020上半年,154
+Acinetobacter species,MEM,74,2020上半年,154
+Acinetobacter species,FEP,79,2020上半年,154
+Burkholderia cepacia complex,SAM,,2020上半年,14
+Burkholderia cepacia complex,PIP,,2020上半年,14
+Burkholderia cepacia complex,TZP,,2020上半年,14
+Burkholderia cepacia complex,AN,,2020上半年,14
+Burkholderia cepacia complex,LVX,,2020上半年,14
+Burkholderia cepacia complex,CIP,,2020上半年,14
+Burkholderia cepacia complex,IPM,,2020上半年,14
+Burkholderia cepacia complex,CAZ,100,2020上半年,14
+Burkholderia cepacia complex,SXT,100,2020上半年,14
+Burkholderia cepacia complex,MEM,100,2020上半年,14
+Burkholderia cepacia complex,FEP,,2020上半年,14
+Stenotrophomonas maltophilia,SAM,,2020上半年,257
+Stenotrophomonas maltophilia,PIP,,2020上半年,257
+Stenotrophomonas maltophilia,TZP,,2020上半年,257
+Stenotrophomonas maltophilia,AN,,2020上半年,257
+Stenotrophomonas maltophilia,LVX,91,2020上半年,257
+Stenotrophomonas maltophilia,CIP,,2020上半年,257
+Stenotrophomonas maltophilia,IPM,,2020上半年,257
+Stenotrophomonas maltophilia,CAZ,,2020上半年,257
+Stenotrophomonas maltophilia,SXT,91,2020上半年,257
+Stenotrophomonas maltophilia,MEM,,2020上半年,257
+Stenotrophomonas maltophilia,FEP,,2020上半年,257
+Pseudomonas aeruginosa,PIP,90,2020上半年,756
+Pseudomonas aeruginosa,TZP,91,2020上半年,756
+Pseudomonas aeruginosa,GN,96,2020上半年,756
+Pseudomonas aeruginosa,AN,99,2020上半年,756
+Pseudomonas aeruginosa,LVX,81,2020上半年,756
+Pseudomonas aeruginosa,CIP,85,2020上半年,756
+Pseudomonas aeruginosa,IPM,91,2020上半年,756
+Pseudomonas aeruginosa,CAZ,94,2020上半年,756
+Pseudomonas aeruginosa,MEM,92,2020上半年,756
+Pseudomonas aeruginosa,FEP,98,2020上半年,756
+Aeromonas species,SAM,,2020上半年,33
+Citrobacter species,SAM,66,2020上半年,181
+Enterobacter cloacae complex,SAM,0,2020上半年,278
+Escherichia coli,SAM,71,2020上半年,2108
+Klebsiella pneumoniae,SAM,63,2020上半年,978
+Klebsiella aerogenes,SAM,0,2020上半年,71
+Klebsiella oxytoca,SAM,75,2020上半年,64
+Morganella morganii,SAM,47,2020上半年,127
+Proteus mirabilis,SAM,84,2020上半年,220
+Proteus species,SAM,95,2020上半年,37
+Providencia species,SAM,38,2020上半年,55
+Serratia marcescens,SAM,0,2020上半年,105
+Aeromonas species,GN,100,2020上半年,33
+Citrobacter species,GN,95,2020上半年,181
+Enterobacter cloacae complex,GN,80,2020上半年,278
+Escherichia coli,GN,78,2020上半年,2108
+Klebsiella pneumoniae,GN,75,2020上半年,978
+Klebsiella aerogenes,GN,92,2020上半年,71
+Klebsiella oxytoca,GN,78,2020上半年,64
+Morganella morganii,GN,73,2020上半年,127
+Proteus mirabilis,GN,76,2020上半年,220
+Proteus species,GN,100,2020上半年,37
+Providencia species,GN,43,2020上半年,55
+Serratia marcescens,GN,83,2020上半年,105
+Aeromonas species,Etp,69,2020上半年,33
+Citrobacter species,Etp,97,2020上半年,181
+Enterobacter cloacae complex,Etp,82,2020上半年,278
+Escherichia coli,Etp,99.5,2020上半年,2108
+Klebsiella pneumoniae,Etp,93,2020上半年,978
+Klebsiella aerogenes,Etp,94,2020上半年,71
+Klebsiella oxytoca,Etp,100,2020上半年,64
+Morganella morganii,Etp,100,2020上半年,127
+Proteus mirabilis,Etp,100,2020上半年,220
+Proteus species,Etp,100,2020上半年,37
+Providencia species,Etp,98,2020上半年,55
+Serratia marcescens,Etp,100,2020上半年,105
+Aeromonas species,CZ,,2020上半年,33
+Citrobacter species,CZ,53,2020上半年,181
+Enterobacter cloacae complex,CZ,0,2020上半年,278
+Escherichia coli,CZ,46,2020上半年,2108
+Klebsiella pneumoniae,CZ,59,2020上半年,978
+Klebsiella aerogenes,CZ,0,2020上半年,71
+Klebsiella oxytoca,CZ,27,2020上半年,64
+Morganella morganii,CZ,0,2020上半年,127
+Proteus mirabilis,CZ,39,2020上半年,220
+Proteus species,CZ,0,2020上半年,37
+Providencia species,CZ,0,2020上半年,55
+Serratia marcescens,CZ,0,2020上半年,105
+Aeromonas species,FOX,43,2020上半年,33
+Citrobacter species,FOX,61,2020上半年,181
+Enterobacter cloacae complex,FOX,0,2020上半年,278
+Escherichia coli,FOX,85,2020上半年,2108
+Klebsiella pneumoniae,FOX,75,2020上半年,978
+Klebsiella aerogenes,FOX,0,2020上半年,71
+Klebsiella oxytoca,FOX,94,2020上半年,64
+Morganella morganii,FOX,68,2020上半年,127
+Proteus mirabilis,FOX,91,2020上半年,220
+Proteus species,FOX,100,2020上半年,37
+Providencia species,FOX,89,2020上半年,55
+Serratia marcescens,FOX,0,2020上半年,105
+Aeromonas species,CXM,70,2020上半年,33
+Citrobacter species,CXM,64,2020上半年,181
+Enterobacter cloacae complex,CXM,0,2020上半年,278
+Escherichia coli,CXM,66,2020上半年,2108
+Klebsiella pneumoniae,CXM,66,2020上半年,978
+Klebsiella aerogenes,CXM,0,2020上半年,71
+Klebsiella oxytoca,CXM,73,2020上半年,64
+Morganella morganii,CXM,0,2020上半年,127
+Proteus mirabilis,CXM,86,2020上半年,220
+Proteus species,CXM,0,2020上半年,37
+Providencia species,CXM,87,2020上半年,55
+Serratia marcescens,CXM,0,2020上半年,105
+Aeromonas species,CTX,75,2020上半年,33
+Citrobacter species,CTX,76,2020上半年,181
+Enterobacter cloacae complex,CTX,41,2020上半年,278
+Escherichia coli,CTX,67,2020上半年,2108
+Klebsiella pneumoniae,CTX,71,2020上半年,978
+Klebsiella aerogenes,CTX,67,2020上半年,71
+Klebsiella oxytoca,CTX,77,2020上半年,64
+Morganella morganii,CTX,91,2020上半年,127
+Proteus mirabilis,CTX,86,2020上半年,220
+Proteus species,CTX,97,2020上半年,37
+Providencia species,CTX,91,2020上半年,55
+Serratia marcescens,CTX,74,2020上半年,105
+Aeromonas species,FLO,52,2020上半年,33
+Citrobacter species,FLO,85,2020上半年,181
+Enterobacter cloacae complex,FLO,61,2020上半年,278
+Escherichia coli,FLO,92,2020上半年,2108
+Klebsiella pneumoniae,FLO,86,2020上半年,978
+Klebsiella aerogenes,FLO,68,2020上半年,71
+Klebsiella oxytoca,FLO,100,2020上半年,64
+Morganella morganii,FLO,95,2020上半年,127
+Proteus mirabilis,FLO,93,2020上半年,220
+Proteus species,FLO,100,2020上半年,37
+Providencia species,FLO,98,2020上半年,55
+Serratia marcescens,FLO,99,2020上半年,105
+Aeromonas species,LVX,97,2020上半年,33
+Citrobacter species,LVX,90,2020上半年,181
+Enterobacter cloacae complex,LVX,72,2020上半年,278
+Escherichia coli,LVX,63,2020上半年,2108
+Klebsiella pneumoniae,LVX,75,2020上半年,978
+Klebsiella aerogenes,LVX,84,2020上半年,71
+Klebsiella oxytoca,LVX,89,2020上半年,64
+Morganella morganii,LVX,83,2020上半年,127
+Proteus mirabilis,LVX,71,2020上半年,220
+Proteus species,LVX,97,2020上半年,37
+Providencia species,LVX,64,2020上半年,55
+Serratia marcescens,LVX,80,2020上半年,105
+Aeromonas species,SXT,88,2020上半年,33
+Citrobacter species,SXT,89,2020上半年,181
+Enterobacter cloacae complex,SXT,62,2020上半年,278
+Escherichia coli,SXT,56,2020上半年,2108
+Klebsiella pneumoniae,SXT,66,2020上半年,978
+Klebsiella aerogenes,SXT,87,2020上半年,71
+Klebsiella oxytoca,SXT,92,2020上半年,64
+Morganella morganii,SXT,60,2020上半年,127
+Proteus mirabilis,SXT,55,2020上半年,220
+Proteus species,SXT,89,2020上半年,37
+Providencia species,SXT,60,2020上半年,55
+Serratia marcescens,SXT,90,2020上半年,105
+Aeromonas species,CFM,,2020上半年,33
+Citrobacter species,CFM,75,2020上半年,181
+Enterobacter cloacae complex,CFM,33,2020上半年,278
+Escherichia coli,CFM,66,2020上半年,2108
+Klebsiella pneumoniae,CFM,65,2020上半年,978
+Klebsiella aerogenes,CFM,62,2020上半年,71
+Klebsiella oxytoca,CFM,76,2020上半年,64
+Morganella morganii,CFM,84,2020上半年,127
+Proteus mirabilis,CFM,90,2020上半年,220
+Proteus species,CFM,97,2020上半年,37
+Providencia species,CFM,91,2020上半年,55
+Serratia marcescens,CFM,76,2020上半年,105
+Aeromonas species,FEP,91,2020上半年,33
+Citrobacter species,FEP,90,2020上半年,181
+Enterobacter cloacae complex,FEP,61,2020上半年,278
+Escherichia coli,FEP,82,2020上半年,2108
+Klebsiella pneumoniae,FEP,80,2020上半年,978
+Klebsiella aerogenes,FEP,96,2020上半年,71
+Klebsiella oxytoca,FEP,88,2020上半年,64
+Morganella morganii,FEP,100,2020上半年,127
+Proteus mirabilis,FEP,92,2020上半年,220
+Proteus species,FEP,100,2020上半年,37
+Providencia species,FEP,100,2020上半年,55
+Serratia marcescens,FEP,92,2020上半年,105
+Salmonella species,AM,59,2020上半年,81
+Salmonella species,Etp,99,2020上半年,81
+Salmonella species,CTX,90,2020上半年,81
+Salmonella species,CIP,74,2020上半年,81
+Salmonella species,SXT,73,2020上半年,81
+Salmonella species,CFM,86,2020上半年,81
+Salmonella species,MEM,98,2020上半年,81
+Salmonella species,FEP,96,2020上半年,81
+Bacteroides fragilis,P,0,2020上半年,124
+Bacteroides species,P,4,2020上半年,100
+Clostridium difficile,P,67,2020上半年,6
+Clostridium species,P,77,2020上半年,35
+Cutibacterium species,P,100,2020上半年,135
+Fusobacterium species,P,94,2020上半年,67
+Peptostreptococcus species,P,84,2020上半年,157
+Prevotella species,P,19,2020上半年,143
+Veillonella parvula,P,7,2020上半年,55
+Bacteroides fragilis,SAM,74,2020上半年,124
+Bacteroides species,SAM,56,2020上半年,100
+Clostridium difficile,SAM,83,2020上半年,6
+Clostridium species,SAM,94,2020上半年,35
+Cutibacterium species,SAM,100,2020上半年,135
+Fusobacterium species,SAM,99,2020上半年,67
+Peptostreptococcus species,SAM,95,2020上半年,157
+Prevotella species,SAM,98,2020上半年,143
+Veillonella parvula,SAM,93,2020上半年,55
+Bacteroides fragilis,CC,52,2020上半年,124
+Bacteroides species,CC,40,2020上半年,100
+Clostridium difficile,CC,83,2020上半年,6
+Clostridium species,CC,54,2020上半年,35
+Cutibacterium species,CC,87,2020上半年,135
+Fusobacterium species,CC,79,2020上半年,67
+Peptostreptococcus species,CC,55,2020上半年,157
+Prevotella species,CC,49,2020上半年,143
+Veillonella parvula,CC,86,2020上半年,55
+Bacteroides fragilis,FLO,73,2020上半年,124
+Bacteroides species,FLO,49,2020上半年,100
+Clostridium difficile,FLO,100,2020上半年,6
+Clostridium species,FLO,94,2020上半年,35
+Cutibacterium species,FLO,100,2020上半年,135
+Fusobacterium species,FLO,100,2020上半年,67
+Peptostreptococcus species,FLO,100,2020上半年,157
+Prevotella species,FLO,93,2020上半年,143
+Veillonella parvula,FLO,100,2020上半年,55
+Bacteroides fragilis,MET,86,2020上半年,124
+Bacteroides species,MET,99,2020上半年,100
+Clostridium difficile,MET,100,2020上半年,6
+Clostridium species,MET,91,2020上半年,35
+Cutibacterium species,MET,2,2020上半年,135
+Fusobacterium species,MET,100,2020上半年,67
+Peptostreptococcus species,MET,100,2020上半年,157
+Prevotella species,MET,94,2020上半年,143
+Veillonella parvula,MET,98,2020上半年,55
+Haemophilus influenzae,AM,33,2020上半年,73
+Haemophilus parainfluenzae,AM,75,2020上半年,17
+Haemophilus influenzae,SAM,70,2020上半年,73
+Haemophilus parainfluenzae,SAM,81,2020上半年,17
+Haemophilus influenzae,AMC,51,2020上半年,73
+Haemophilus parainfluenzae,AMC,88,2020上半年,17
+Haemophilus influenzae,CXM,78,2020上半年,73
+Haemophilus parainfluenzae,CXM,94,2020上半年,17
+Haemophilus influenzae,CTX,97,2020上半年,73
+Haemophilus parainfluenzae,CTX,100,2020上半年,17
+Haemophilus influenzae,LVX,74,2020上半年,73
+Haemophilus parainfluenzae,LVX,69,2020上半年,17
+Haemophilus influenzae,CFM,93,2020上半年,73
+Haemophilus parainfluenzae,CFM,100,2020上半年,17
+Haemophilus influenzae,MxF,69,2020上半年,73
+Haemophilus parainfluenzae,MxF,56,2020上半年,17
+Neisseria gonorrhoeae,P,0,2020上半年,73
+Neisseria gonorrhoeae,CTX,95,2020上半年,17
+Neisseria gonorrhoeae,CRO,5,2020上半年,73
+Neisseria gonorrhoeae,CIP,95,2020上半年,17
+Neisseria gonorrhoeae,CFM,95,2020上半年,73
+Neisseria gonorrhoeae,FEP,95,2020上半年,17
+Coagulase(-)Staphylococcus,OX,43,2020上半年,469
+Staphylococcus aureus,OX,62,2020上半年,845
+ORSA,OX,0,2020上半年,328
+OSSA,OX,100,2020上半年,525
+Coagulase(-)Staphylococcus,CC,68,2020上半年,469
+Staphylococcus aureus,CC,73,2020上半年,845
+ORSA,CC,52,2020上半年,328
+OSSA,CC,86,2020上半年,525
+Coagulase(-)Staphylococcus,E,51,2020上半年,469
+Staphylococcus aureus,E,50,2020上半年,845
+ORSA,E,26,2020上半年,328
+OSSA,E,65,2020上半年,525
+Coagulase(-)Staphylococcus,GN,65,2020上半年,469
+Staphylococcus aureus,GN,70,2020上半年,845
+ORSA,GN,63,2020上半年,328
+OSSA,GN,75,2020上半年,525
+Coagulase(-)Staphylococcus,SXT,68,2020上半年,469
+Staphylococcus aureus,SXT,97,2020上半年,845
+ORSA,SXT,93,2020上半年,328
+OSSA,SXT,98,2020上半年,525
+Coagulase(-)Staphylococcus,RA,90,2020上半年,469
+Staphylococcus aureus,RA,99,2020上半年,845
+ORSA,RA,98,2020上半年,328
+OSSA,RA,100,2020上半年,525
+Coagulase(-)Staphylococcus,FA,71,2020上半年,469
+Staphylococcus aureus,FA,94,2020上半年,845
+ORSA,FA,94,2020上半年,328
+OSSA,FA,94,2020上半年,525
+Coagulase(-)Staphylococcus,LZD,100,2020上半年,469
+Staphylococcus aureus,LZD,100,2020上半年,845
+ORSA,LZD,100,2020上半年,328
+OSSA,LZD,100,2020上半年,525
+Coagulase(-)Staphylococcus,TEC,99.8,2020上半年,469
+Staphylococcus aureus,TEC,100,2020上半年,845
+ORSA,TEC,99.7,2020上半年,328
+OSSA,TEC,100,2020上半年,525
+Enterococcus faeclais,P,97,2020上半年,694
+Enterococcus faecium,P,9,2020上半年,338
+Enterococcus gallinarum/Enterococcus casseliflavus,P,92,2020上半年,37
+Enterococcus species,P,65,2020上半年,72
+Enterococcus faeclais,VA,100,2020上半年,694
+Enterococcus faecium,VA,58,2020上半年,338
+Enterococcus gallinarum/Enterococcus casseliflavus,VA,0,2020上半年,37
+Enterococcus species,VA,100,2020上半年,72
+Enterococcus faeclais,AM,100,2020上半年,694
+Enterococcus faecium,AM,11,2020上半年,338
+Enterococcus gallinarum/Enterococcus casseliflavus,AM,95,2020上半年,37
+Enterococcus species,AM,68,2020上半年,72
+Enterococcus faeclais,E,18,2020上半年,694
+Enterococcus faecium,E,13,2020上半年,338
+Enterococcus gallinarum/Enterococcus casseliflavus,E,75,2020上半年,37
+Enterococcus species,E,46,2020上半年,72
+Enterococcus faeclais,GN,67,2020上半年,694
+Enterococcus faecium,GN,90,2020上半年,338
+Enterococcus gallinarum/Enterococcus casseliflavus,GN,94,2020上半年,37
+Enterococcus species,GN,90,2020上半年,72
+Enterococcus faeclais,TEC,100,2020上半年,694
+Enterococcus faecium,TEC,60,2020上半年,338
+Enterococcus gallinarum/Enterococcus casseliflavus,TEC,100,2020上半年,37
+Enterococcus species,TEC,100,2020上半年,72
+Enterococcus faeclais,S,73,2020上半年,694
+Enterococcus faecium,S,81,2020上半年,338
+Enterococcus gallinarum/Enterococcus casseliflavus,S,94,2020上半年,37
+Enterococcus species,S,82,2020上半年,72
+Enterococcus faeclais,LZD,99,2020上半年,694
+Enterococcus faecium,LZD,99.7,2020上半年,338
+Enterococcus gallinarum/Enterococcus casseliflavus,LZD,100,2020上半年,37
+Enterococcus species,LZD,100,2020上半年,72
+β-hemolytic streptococci,P,100,2020上半年,380
+Streptococcus pneumoniae,P,96,2020上半年,25
+Streptococcus species,P,72,2020上半年,454
+β-hemolytic streptococci,VA,100,2020上半年,380
+Streptococcus pneumoniae,VA,100,2020上半年,25
+Streptococcus species,VA,100,2020上半年,454
+β-hemolytic streptococci,AM,100,2020上半年,380
+Streptococcus pneumoniae,AM,,2020上半年,25
+Streptococcus species,AM,89,2020上半年,454
+β-hemolytic streptococci,CC,61,2020上半年,380
+Streptococcus pneumoniae,CC,25,2020上半年,25
+Streptococcus species,CC,67,2020上半年,454
+β-hemolytic streptococci,E,60,2020上半年,380
+Streptococcus pneumoniae,E,16,2020上半年,25
+Streptococcus species,E,56,2020上半年,454
+β-hemolytic streptococci,CZ,100,2020上半年,380
+Streptococcus pneumoniae,CZ,,2020上半年,25
+Streptococcus species,CZ,100,2020上半年,454
+β-hemolytic streptococci,CTX,100,2020上半年,380
+Streptococcus pneumoniae,CTX,,2020上半年,25
+Streptococcus species,CTX,94,2020上半年,454
+β-hemolytic streptococci,LVX,94,2020上半年,380
+Streptococcus pneumoniae,LVX,92,2020上半年,25
+Streptococcus species,LVX,89,2020上半年,454
+β-hemolytic streptococci,SXT,,2020上半年,380
+Streptococcus pneumoniae,SXT,61,2020上半年,25
+Streptococcus species,SXT,,2020上半年,454
+β-hemolytic streptococci,FEP,100,2020上半年,380
+Streptococcus pneumoniae,FEP,,2020上半年,25
+Streptococcus species,FEP,95,2020上半年,454
+β-hemolytic streptococci,MxF,,2020上半年,380
+Streptococcus pneumoniae,MxF,96,2020上半年,25
+Streptococcus species,MxF,,2020上半年,454
+Acinetobacter baumannii complex,SAM,78,2019下半年,329
+Acinetobacter baumannii complex,PIP,45,2019下半年,329
+Acinetobacter baumannii complex,TZP,63,2019下半年,329
+Acinetobacter baumannii complex,AN,72,2019下半年,329
+Acinetobacter baumannii complex,LVX,,2019下半年,329
+Acinetobacter baumannii complex,CIP,61,2019下半年,329
+Acinetobacter baumannii complex,IPM,67,2019下半年,329
+Acinetobacter baumannii complex,CAZ,69,2019下半年,329
+Acinetobacter baumannii complex,SXT,58,2019下半年,329
+Acinetobacter baumannii complex,MEM,67,2019下半年,329
+Acinetobacter baumannii complex,FEP,71,2019下半年,329
+Acinetobacter baumannii,SAM,69,2019下半年,221
+Acinetobacter baumannii,PIP,48,2019下半年,221
+Acinetobacter baumannii,TZP,58,2019下半年,221
+Acinetobacter baumannii,AN,63,2019下半年,221
+Acinetobacter baumannii,LVX,,2019下半年,221
+Acinetobacter baumannii,CIP,56,2019下半年,221
+Acinetobacter baumannii,IPM,61,2019下半年,221
+Acinetobacter baumannii,CAZ,59,2019下半年,221
+Acinetobacter baumannii,SXT,54,2019下半年,221
+Acinetobacter baumannii,MEM,61,2019下半年,221
+Acinetobacter baumannii,FEP,61,2019下半年,221
+Acinetobacter calcoaceticus,SAM,100,2019下半年,1
+Acinetobacter calcoaceticus,PIP,100,2019下半年,1
+Acinetobacter calcoaceticus,TZP,100,2019下半年,1
+Acinetobacter calcoaceticus,AN,100,2019下半年,1
+Acinetobacter calcoaceticus,LVX,,2019下半年,1
+Acinetobacter calcoaceticus,CIP,100,2019下半年,1
+Acinetobacter calcoaceticus,IPM,100,2019下半年,1
+Acinetobacter calcoaceticus,CAZ,100,2019下半年,1
+Acinetobacter calcoaceticus,SXT,100,2019下半年,1
+Acinetobacter calcoaceticus,MEM,100,2019下半年,1
+Acinetobacter calcoaceticus,FEP,100,2019下半年,1
+Acinetobacter nosocomialis,SAM,91,2019下半年,32
+Acinetobacter nosocomialis,PIP,58,2019下半年,32
+Acinetobacter nosocomialis,TZP,61,2019下半年,32
+Acinetobacter nosocomialis,AN,84,2019下半年,32
+Acinetobacter nosocomialis,LVX,,2019下半年,32
+Acinetobacter nosocomialis,CIP,66,2019下半年,32
+Acinetobacter nosocomialis,IPM,63,2019下半年,32
+Acinetobacter nosocomialis,CAZ,91,2019下半年,32
+Acinetobacter nosocomialis,SXT,56,2019下半年,32
+Acinetobacter nosocomialis,MEM,61,2019下半年,32
+Acinetobacter nosocomialis,FEP,78,2019下半年,32
+Acinetobacter pittii,SAM,99,2019下半年,75
+Acinetobacter pittii,PIP,32,2019下半年,75
+Acinetobacter pittii,TZP,75,2019下半年,75
+Acinetobacter pittii,AN,97,2019下半年,75
+Acinetobacter pittii,LVX,,2019下半年,75
+Acinetobacter pittii,CIP,72,2019下半年,75
+Acinetobacter pittii,IPM,85,2019下半年,75
+Acinetobacter pittii,CAZ,89,2019下半年,75
+Acinetobacter pittii,SXT,72,2019下半年,75
+Acinetobacter pittii,MEM,88,2019下半年,75
+Acinetobacter pittii,FEP,95,2019下半年,75
+Acinetobacter species,SAM,94,2019下半年,102
+Acinetobacter species,PIP,61,2019下半年,102
+Acinetobacter species,TZP,75,2019下半年,102
+Acinetobacter species,AN,91,2019下半年,102
+Acinetobacter species,LVX,,2019下半年,102
+Acinetobacter species,CIP,68,2019下半年,102
+Acinetobacter species,IPM,78,2019下半年,102
+Acinetobacter species,CAZ,69,2019下半年,102
+Acinetobacter species,SXT,57,2019下半年,102
+Acinetobacter species,MEM,78,2019下半年,102
+Acinetobacter species,FEP,79,2019下半年,102
+Burkholderia cepacia complex,SAM,,2019下半年,15
+Burkholderia cepacia complex,PIP,,2019下半年,15
+Burkholderia cepacia complex,TZP,,2019下半年,15
+Burkholderia cepacia complex,AN,,2019下半年,15
+Burkholderia cepacia complex,LVX,,2019下半年,15
+Burkholderia cepacia complex,CIP,,2019下半年,15
+Burkholderia cepacia complex,IPM,,2019下半年,15
+Burkholderia cepacia complex,CAZ,100,2019下半年,15
+Burkholderia cepacia complex,SXT,100,2019下半年,15
+Burkholderia cepacia complex,MEM,92,2019下半年,15
+Burkholderia cepacia complex,FEP,,2019下半年,15
+Stenotrophomonas maltophilia,SAM,,2019下半年,269
+Stenotrophomonas maltophilia,PIP,,2019下半年,269
+Stenotrophomonas maltophilia,TZP,,2019下半年,269
+Stenotrophomonas maltophilia,AN,,2019下半年,269
+Stenotrophomonas maltophilia,LVX,92,2019下半年,269
+Stenotrophomonas maltophilia,CIP,,2019下半年,269
+Stenotrophomonas maltophilia,IPM,,2019下半年,269
+Stenotrophomonas maltophilia,CAZ,,2019下半年,269
+Stenotrophomonas maltophilia,SXT,92,2019下半年,269
+Stenotrophomonas maltophilia,MEM,,2019下半年,269
+Stenotrophomonas maltophilia,FEP,,2019下半年,269
+Pseudomonas aeruginosa,PIP,90,2019下半年,858
+Pseudomonas aeruginosa,TZP,92,2019下半年,858
+Pseudomonas aeruginosa,GN,96,2019下半年,858
+Pseudomonas aeruginosa,AN,99.4,2019下半年,858
+Pseudomonas aeruginosa,LVX,83,2019下半年,858
+Pseudomonas aeruginosa,CIP,87,2019下半年,858
+Pseudomonas aeruginosa,IPM,92,2019下半年,858
+Pseudomonas aeruginosa,CAZ,94,2019下半年,858
+Pseudomonas aeruginosa,MEM,94,2019下半年,858
+Pseudomonas aeruginosa,FEP,96,2019下半年,858
+Aeromonas species,SAM,,2019下半年,46
+Citrobacter species,SAM,72,2019下半年,186
+Enterobacter cloacae complex,SAM,0,2019下半年,301
+Escherichia coli,SAM,70,2019下半年,2287
+Klebsiella pneumoniae,SAM,59,2019下半年,1169
+Klebsiella aerogenes,SAM,0,2019下半年,79
+Klebsiella oxytoca,SAM,70,2019下半年,53
+Morganella morganii,SAM,51,2019下半年,118
+Proteus mirabilis,SAM,85,2019下半年,229
+Proteus species,SAM,97,2019下半年,34
+Providencia species,SAM,36,2019下半年,51
+Serratia marcescens,SAM,0,2019下半年,134
+Aeromonas species,GN,100,2019下半年,46
+Citrobacter species,GN,94,2019下半年,186
+Enterobacter cloacae complex,GN,83,2019下半年,301
+Escherichia coli,GN,77,2019下半年,2287
+Klebsiella pneumoniae,GN,73,2019下半年,1169
+Klebsiella aerogenes,GN,89,2019下半年,79
+Klebsiella oxytoca,GN,72,2019下半年,53
+Morganella morganii,GN,70,2019下半年,118
+Proteus mirabilis,GN,80,2019下半年,229
+Proteus species,GN,100,2019下半年,34
+Providencia species,GN,46,2019下半年,51
+Serratia marcescens,GN,84,2019下半年,134
+Aeromonas species,Etp,77,2019下半年,46
+Citrobacter species,Etp,98,2019下半年,186
+Enterobacter cloacae complex,Etp,82,2019下半年,301
+Escherichia coli,Etp,99.6,2019下半年,2287
+Klebsiella pneumoniae,Etp,93,2019下半年,1169
+Klebsiella aerogenes,Etp,98,2019下半年,79
+Klebsiella oxytoca,Etp,100,2019下半年,53
+Morganella morganii,Etp,100,2019下半年,118
+Proteus mirabilis,Etp,100,2019下半年,229
+Proteus species,Etp,100,2019下半年,34
+Providencia species,Etp,94,2019下半年,51
+Serratia marcescens,Etp,99,2019下半年,134
+Aeromonas species,CZ,,2019下半年,46
+Citrobacter species,CZ,63,2019下半年,186
+Enterobacter cloacae complex,CZ,0,2019下半年,301
+Escherichia coli,CZ,45,2019下半年,2287
+Klebsiella pneumoniae,CZ,57,2019下半年,1169
+Klebsiella aerogenes,CZ,0,2019下半年,79
+Klebsiella oxytoca,CZ,10,2019下半年,53
+Morganella morganii,CZ,0,2019下半年,118
+Proteus mirabilis,CZ,46,2019下半年,229
+Proteus species,CZ,0,2019下半年,34
+Providencia species,CZ,0,2019下半年,51
+Serratia marcescens,CZ,0,2019下半年,134
+Aeromonas species,FOX,21,2019下半年,46
+Citrobacter species,FOX,68,2019下半年,186
+Enterobacter cloacae complex,FOX,0,2019下半年,301
+Escherichia coli,FOX,84,2019下半年,2287
+Klebsiella pneumoniae,FOX,68,2019下半年,1169
+Klebsiella aerogenes,FOX,0,2019下半年,79
+Klebsiella oxytoca,FOX,96,2019下半年,53
+Morganella morganii,FOX,61,2019下半年,118
+Proteus mirabilis,FOX,95,2019下半年,229
+Proteus species,FOX,97,2019下半年,34
+Providencia species,FOX,77,2019下半年,51
+Serratia marcescens,FOX,0,2019下半年,134
+Aeromonas species,CXM,79,2019下半年,46
+Citrobacter species,CXM,69,2019下半年,186
+Enterobacter cloacae complex,CXM,0,2019下半年,301
+Escherichia coli,CXM,65,2019下半年,2287
+Klebsiella pneumoniae,CXM,61,2019下半年,1169
+Klebsiella aerogenes,CXM,0,2019下半年,79
+Klebsiella oxytoca,CXM,70,2019下半年,53
+Morganella morganii,CXM,0,2019下半年,118
+Proteus mirabilis,CXM,86,2019下半年,229
+Proteus species,CXM,0,2019下半年,34
+Providencia species,CXM,69,2019下半年,51
+Serratia marcescens,CXM,0,2019下半年,134
+Aeromonas species,CTX,84,2019下半年,46
+Citrobacter species,CTX,79,2019下半年,186
+Enterobacter cloacae complex,CTX,53,2019下半年,301
+Escherichia coli,CTX,66,2019下半年,2287
+Klebsiella pneumoniae,CTX,68,2019下半年,1169
+Klebsiella aerogenes,CTX,60,2019下半年,79
+Klebsiella oxytoca,CTX,72,2019下半年,53
+Morganella morganii,CTX,86,2019下半年,118
+Proteus mirabilis,CTX,89,2019下半年,229
+Proteus species,CTX,100,2019下半年,34
+Providencia species,CTX,78,2019下半年,51
+Serratia marcescens,CTX,76,2019下半年,134
+Aeromonas species,FLO,41,2019下半年,46
+Citrobacter species,FLO,89,2019下半年,186
+Enterobacter cloacae complex,FLO,59,2019下半年,301
+Escherichia coli,FLO,92,2019下半年,2287
+Klebsiella pneumoniae,FLO,77,2019下半年,1169
+Klebsiella aerogenes,FLO,59,2019下半年,79
+Klebsiella oxytoca,FLO,98,2019下半年,53
+Morganella morganii,FLO,93,2019下半年,118
+Proteus mirabilis,FLO,97,2019下半年,229
+Proteus species,FLO,100,2019下半年,34
+Providencia species,FLO,92,2019下半年,51
+Serratia marcescens,FLO,98,2019下半年,134
+Aeromonas species,LVX,96,2019下半年,46
+Citrobacter species,LVX,90,2019下半年,186
+Enterobacter cloacae complex,LVX,77,2019下半年,301
+Escherichia coli,LVX,61,2019下半年,2287
+Klebsiella pneumoniae,LVX,75,2019下半年,1169
+Klebsiella aerogenes,LVX,81,2019下半年,79
+Klebsiella oxytoca,LVX,93,2019下半年,53
+Morganella morganii,LVX,79,2019下半年,118
+Proteus mirabilis,LVX,75,2019下半年,229
+Proteus species,LVX,100,2019下半年,34
+Providencia species,LVX,53,2019下半年,51
+Serratia marcescens,LVX,80,2019下半年,134
+Aeromonas species,SXT,86,2019下半年,46
+Citrobacter species,SXT,91,2019下半年,186
+Enterobacter cloacae complex,SXT,68,2019下半年,301
+Escherichia coli,SXT,54,2019下半年,2287
+Klebsiella pneumoniae,SXT,62,2019下半年,1169
+Klebsiella aerogenes,SXT,87,2019下半年,79
+Klebsiella oxytoca,SXT,94,2019下半年,53
+Morganella morganii,SXT,50,2019下半年,118
+Proteus mirabilis,SXT,55,2019下半年,229
+Proteus species,SXT,82,2019下半年,34
+Providencia species,SXT,42,2019下半年,51
+Serratia marcescens,SXT,85,2019下半年,134
+Aeromonas species,CFM,,2019下半年,46
+Citrobacter species,CFM,79,2019下半年,186
+Enterobacter cloacae complex,CFM,46,2019下半年,301
+Escherichia coli,CFM,64,2019下半年,2287
+Klebsiella pneumoniae,CFM,60,2019下半年,1169
+Klebsiella aerogenes,CFM,49,2019下半年,79
+Klebsiella oxytoca,CFM,66,2019下半年,53
+Morganella morganii,CFM,82,2019下半年,118
+Proteus mirabilis,CFM,93,2019下半年,229
+Proteus species,CFM,100,2019下半年,34
+Providencia species,CFM,77,2019下半年,51
+Serratia marcescens,CFM,76,2019下半年,134
+Aeromonas species,FEP,,2019下半年,46
+Citrobacter species,FEP,87,2019下半年,186
+Enterobacter cloacae complex,FEP,72,2019下半年,301
+Escherichia coli,FEP,80,2019下半年,2287
+Klebsiella pneumoniae,FEP,81,2019下半年,1169
+Klebsiella aerogenes,FEP,92,2019下半年,79
+Klebsiella oxytoca,FEP,81,2019下半年,53
+Morganella morganii,FEP,99,2019下半年,118
+Proteus mirabilis,FEP,96,2019下半年,229
+Proteus species,FEP,100,2019下半年,34
+Providencia species,FEP,94,2019下半年,51
+Serratia marcescens,FEP,89,2019下半年,134
+Salmonella species,AM,49,2019下半年,116
+Salmonella species,Etp,100,2019下半年,116
+Salmonella species,CTX,90,2019下半年,116
+Salmonella species,CIP,78,2019下半年,116
+Salmonella species,SXT,69,2019下半年,116
+Salmonella species,CFM,81,2019下半年,116
+Salmonella species,MEM,100,2019下半年,116
+Salmonella species,FEP,97,2019下半年,116
+Bacteroides fragilis,P,0,2019下半年,123
+Bacteroides species,P,14,2019下半年,89
+Clostridium difficile,P,56,2019下半年,9
+Clostridium species,P,75,2019下半年,37
+Cutibacterium species,P,100,2019下半年,120
+Fusobacterium species,P,93,2019下半年,56
+Peptostreptococcus species,P,89,2019下半年,152
+Prevotella species,P,24,2019下半年,140
+Veillonella parvula,P,10,2019下半年,40
+Bacteroides fragilis,SAM,62,2019下半年,123
+Bacteroides species,SAM,67,2019下半年,89
+Clostridium difficile,SAM,89,2019下半年,9
+Clostridium species,SAM,92,2019下半年,37
+Cutibacterium species,SAM,100,2019下半年,120
+Fusobacterium species,SAM,96,2019下半年,56
+Peptostreptococcus species,SAM,95,2019下半年,152
+Prevotella species,SAM,100,2019下半年,140
+Veillonella parvula,SAM,90,2019下半年,40
+Bacteroides fragilis,CC,43,2019下半年,123
+Bacteroides species,CC,38,2019下半年,89
+Clostridium difficile,CC,56,2019下半年,9
+Clostridium species,CC,56,2019下半年,37
+Cutibacterium species,CC,93,2019下半年,120
+Fusobacterium species,CC,95,2019下半年,56
+Peptostreptococcus species,CC,66,2019下半年,152
+Prevotella species,CC,57,2019下半年,140
+Veillonella parvula,CC,88,2019下半年,40
+Bacteroides fragilis,FLO,62,2019下半年,123
+Bacteroides species,FLO,449,2019下半年,89
+Clostridium difficile,FLO,89,2019下半年,9
+Clostridium species,FLO,89,2019下半年,37
+Cutibacterium species,FLO,100,2019下半年,120
+Fusobacterium species,FLO,100,2019下半年,56
+Peptostreptococcus species,FLO,99,2019下半年,152
+Prevotella species,FLO,93,2019下半年,140
+Veillonella parvula,FLO,100,2019下半年,40
+Bacteroides fragilis,MET,93,2019下半年,123
+Bacteroides species,MET,97,2019下半年,89
+Clostridium difficile,MET,100,2019下半年,9
+Clostridium species,MET,100,2019下半年,37
+Cutibacterium species,MET,0,2019下半年,120
+Fusobacterium species,MET,100,2019下半年,56
+Peptostreptococcus species,MET,99,2019下半年,152
+Prevotella species,MET,94,2019下半年,140
+Veillonella parvula,MET,100,2019下半年,40
+Haemophilus influenzae,AM,39,2019下半年,95
+Haemophilus parainfluenzae,AM,85,2019下半年,21
+Haemophilus influenzae,SAM,74,2019下半年,95
+Haemophilus parainfluenzae,SAM,90,2019下半年,21
+Haemophilus influenzae,AMC,69,2019下半年,95
+Haemophilus parainfluenzae,AMC,95,2019下半年,21
+Haemophilus influenzae,CXM,80,2019下半年,95
+Haemophilus parainfluenzae,CXM,90,2019下半年,21
+Haemophilus influenzae,CTX,94,2019下半年,95
+Haemophilus parainfluenzae,CTX,95,2019下半年,21
+Haemophilus influenzae,LVX,87,2019下半年,95
+Haemophilus parainfluenzae,LVX,74,2019下半年,21
+Haemophilus influenzae,CFM,90,2019下半年,95
+Haemophilus parainfluenzae,CFM,95,2019下半年,21
+Haemophilus influenzae,MxF,81,2019下半年,95
+Haemophilus parainfluenzae,MxF,58,2019下半年,21
+Neisseria gonorrhoeae,P,8,2019下半年,12
+Neisseria gonorrhoeae,CTX,92,2019下半年,12
+Neisseria gonorrhoeae,CIP,8,2019下半年,12
+Neisseria gonorrhoeae,CFM,100,2019下半年,12
+Neisseria gonorrhoeae,FEP,100,2019下半年,12
+Coagulase(-)Staphylococcus,OX,45,2019下半年,436
+Staphylococcus aureus,OX,61,2019下半年,905
+ORSA,OX,0,2019下半年,366
+OSSA,OX,100,2019下半年,548
+Coagulase(-)Staphylococcus,CC,68,2019下半年,436
+Staphylococcus aureus,CC,74,2019下半年,905
+ORSA,CC,50,2019下半年,366
+OSSA,CC,89,2019下半年,548
+Coagulase(-)Staphylococcus,E,50,2019下半年,436
+Staphylococcus aureus,E,50,2019下半年,905
+ORSA,E,23,2019下半年,366
+OSSA,E,66,2019下半年,548
+Coagulase(-)Staphylococcus,GN,61,2019下半年,436
+Staphylococcus aureus,GN,68,2019下半年,905
+ORSA,GN,57,2019下半年,366
+OSSA,GN,75,2019下半年,548
+Coagulase(-)Staphylococcus,SXT,71,2019下半年,436
+Staphylococcus aureus,SXT,96,2019下半年,905
+ORSA,SXT,89,2019下半年,366
+OSSA,SXT,99.5,2019下半年,548
+Coagulase(-)Staphylococcus,RA,99.8,2019下半年,436
+Staphylococcus aureus,RA,99.8,2019下半年,905
+ORSA,RA,99,2019下半年,366
+OSSA,RA,100,2019下半年,548
+Coagulase(-)Staphylococcus,FA,88,2019下半年,436
+Staphylococcus aureus,FA,99,2019下半年,905
+ORSA,FA,99,2019下半年,366
+OSSA,FA,99.6,2019下半年,548
+Coagulase(-)Staphylococcus,LZD,73,2019下半年,436
+Staphylococcus aureus,LZD,95,2019下半年,905
+ORSA,LZD,94,2019下半年,366
+OSSA,LZD,94,2019下半年,548
+Coagulase(-)Staphylococcus,TEC,100,2019下半年,436
+Staphylococcus aureus,TEC,100,2019下半年,905
+ORSA,TEC,100,2019下半年,366
+OSSA,TEC,100,2019下半年,548
+Enterococcus faeclais,P,99,2019下半年,650
+Enterococcus faecium,P,9,2019下半年,340
+Enterococcus gallinarum/Enterococcus casseliflavus,P,97,2019下半年,36
+Enterococcus species,P,59,2019下半年,80
+Enterococcus faeclais,VA,100,2019下半年,650
+Enterococcus faecium,VA,49,2019下半年,340
+Enterococcus gallinarum/Enterococcus casseliflavus,VA,0,2019下半年,36
+Enterococcus species,VA,99,2019下半年,80
+Enterococcus faeclais,AM,100,2019下半年,650
+Enterococcus faecium,AM,11,2019下半年,340
+Enterococcus gallinarum/Enterococcus casseliflavus,AM,100,2019下半年,36
+Enterococcus species,AM,67,2019下半年,80
+Enterococcus faeclais,E,21,2019下半年,650
+Enterococcus faecium,E,9,2019下半年,340
+Enterococcus gallinarum/Enterococcus casseliflavus,E,57,2019下半年,36
+Enterococcus species,E,58,2019下半年,80
+Enterococcus faeclais,GN,6,2019下半年,650
+Enterococcus faecium,GN,84,2019下半年,340
+Enterococcus gallinarum/Enterococcus casseliflavus,GN,97,2019下半年,36
+Enterococcus species,GN,88,2019下半年,80
+Enterococcus faeclais,TEC,100,2019下半年,650
+Enterococcus faecium,TEC,50,2019下半年,340
+Enterococcus gallinarum/Enterococcus casseliflavus,TEC,100,2019下半年,36
+Enterococcus species,TEC,99,2019下半年,80
+Enterococcus faeclais,S,76,2019下半年,650
+Enterococcus faecium,S,71,2019下半年,340
+Enterococcus gallinarum/Enterococcus casseliflavus,S,90,2019下半年,36
+Enterococcus species,S,84,2019下半年,80
+Enterococcus faeclais,LZD,99,2019下半年,650
+Enterococcus faecium,LZD,99.7,2019下半年,340
+Enterococcus gallinarum/Enterococcus casseliflavus,LZD,97,2019下半年,36
+Enterococcus species,LZD,99,2019下半年,80
+β-hemolytic streptococci,P,100,2019下半年,387
+Streptococcus pneumoniae,P,97,2019下半年,28
+Streptococcus species,P,71,2019下半年,433
+β-hemolytic streptococci,VA,100,2019下半年,387
+Streptococcus pneumoniae,VA,100,2019下半年,28
+Streptococcus species,VA,100,2019下半年,433
+β-hemolytic streptococci,AM,100,2019下半年,387
+Streptococcus pneumoniae,AM,,2019下半年,28
+Streptococcus species,AM,82,2019下半年,433
+β-hemolytic streptococci,CC,61,2019下半年,387
+Streptococcus pneumoniae,CC,20,2019下半年,28
+Streptococcus species,CC,71,2019下半年,433
+β-hemolytic streptococci,E,60,2019下半年,387
+Streptococcus pneumoniae,E,7,2019下半年,28
+Streptococcus species,E,61,2019下半年,433
+β-hemolytic streptococci,CZ,100,2019下半年,387
+Streptococcus pneumoniae,CZ,,2019下半年,28
+Streptococcus species,CZ,100,2019下半年,433
+β-hemolytic streptococci,CTX,100,2019下半年,387
+Streptococcus pneumoniae,CTX,,2019下半年,28
+Streptococcus species,CTX,94,2019下半年,433
+β-hemolytic streptococci,LVX,94,2019下半年,387
+Streptococcus pneumoniae,LVX,100,2019下半年,28
+Streptococcus species,LVX,90,2019下半年,433
+β-hemolytic streptococci,SXT,,2019下半年,387
+Streptococcus pneumoniae,SXT,73,2019下半年,28
+Streptococcus species,SXT,,2019下半年,433
+β-hemolytic streptococci,FEP,100,2019下半年,387
+Streptococcus pneumoniae,FEP,,2019下半年,28
+Streptococcus species,FEP,97,2019下半年,433
+β-hemolytic streptococci,MxF,,2019下半年,387
+Streptococcus pneumoniae,MxF,100,2019下半年,28
+Streptococcus species,MxF,,2019下半年,433

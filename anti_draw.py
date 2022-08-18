@@ -68,7 +68,7 @@ anti = list(df.anti.unique())
 
 #app = dash.Dash()
 
-app = dash.Dash()
+app = dash.Dash(__name__)
 server = app.server
 
 

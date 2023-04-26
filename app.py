@@ -34,7 +34,7 @@ df = df.replace({"anti": shift_anti_list})
 
 
 GPC = ['Coagulase(-)Staphylococcus',
-       'Staphylococcus aureus', 'ORSA', 'OSSA', 'Enterococcus faeclais',
+       'Staphylococcus aureus', 'ORSA', 'OSSA', 'Enterococcus faecalis',
        'Enterococcus faecium',
        'Enterococcus gallinarum/Enterococcus casseliflavus',
        'Enterococcus species', 'β-hemolytic streptococci',

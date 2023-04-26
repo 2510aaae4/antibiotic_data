@@ -171,9 +171,6 @@ def update_figure(n_clicks,selected_bacteria):
     
     return {'data':traces,'layout':layout}
 
-if __name__ == '__main__':
-    app.run_server()
-
 
 # In[ ]:
 
